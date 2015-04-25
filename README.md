@@ -38,8 +38,9 @@ Toinen ohjaava arvo on design lähtöisyys. Palveludesign on jo jonkin aikaa oll
  
 Palveluväylässä on rajapintojen hallinta, mutta kaikki rajapinnat OKM toimialalla eivät käytä palveluväylää. Näin ollen tulee perustaa keskitetty rajapintojen hallintapalvelu. Keskitetty rajapintojen hallinta liittyy tuotteenhallintaan, jonka malli puolestaan on määritelty VTT:n kehittämässä avoimen tuotteen hallintamallissa.
 
-**Toimenpiteet**
-* ....
+**Toimenpiteet ja suositukset**
+* Perustaa koko toimialan käyttöön yhteinen API:en hallintaratkaisu (ei vain julkiselle sektorille, kaupallisille tahoille maksullinen) 
+* Sovittaa API:en hallinta osaksi avoimen tuotteen hallintamallia osana API hallintamallin kehittämistä. 
 
 ## Avoimen tuotteen hallintamalli
 
