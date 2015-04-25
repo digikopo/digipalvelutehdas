@@ -6,6 +6,16 @@ Teollinen internet, josta paljon puhutaan on nimenä harhaanjohtava. Kyse on teo
 
 Toimialan julkisin varoin tuotetusta tiedosta on tehtävä avointa. Tieto on jaettava ilmaiseksi ja erityistä huomiota on kiinnitettävä julkisen tiedon rajapintoihin (API). Tieto, joka ei ole yksinkertaisesti ja automaattisesti haettavissa ja hyödynnettävissä, ei ole kovin arvokasta digitalisaation edistämisessä. 
 
+Perusperiaatteet toiminnalle: 
+* Tue avoimia standardeja.
+* Suunnittele palvelut tukemaan aktiivista osallistumista.
+* Tee asioiden kokeilemisesta helppoa.
+* Opi ulkopuolisilta osaajilta.
+* Luo edistymisen mittaamisen kulttuuri.
+* Rakenna yksinkertaisia digitaalisia palveluita, joita on helppo kehittää
+
+Lista sisältää strategisia linjauksia ja ohjausta. Alla on avattu perusperiaatteita tarkemmin ja esitelty tarvittavat toimenpiteet ja suositukset. 
+
 ## Rajapintojen kehittäminen avoimella lähdekoodilla
 
 Avoimet rajapinnat ovat hyvä mutta riittämätön lähtökohta API strategialle. Rajapinnat tulee tehdä avointa lähdekoodia käyttäen. Pelkkien avoimien rajapintojen edistäminen ei riitä. Vaikka rajapinnat ovat avoimia ja kaikkien käytössä, myös rajapinnat muuttuvat käyttäjien tarpeiden mukaisesti. Rajapinnan kehittäminen puolestaan vaatii tuntemusta taustajärjestelmästä ja suljetun komponentin kohdalla se tieto on vain tuotteen omistajalla. Tämä puolestaan johtaa siihen tilanteeseen, että suljetun tuotteen omistaja voi mielivaltaisesti päättää mitä muutoksia rajapintaan tehdään jos tehdään ollenkaan. Toiseksi, tämä tilanne estää muutosten kehittämisen vapaan kilpailuttamisen kyseisen komponentin toteuttamien ominaisuuksien osalta. Näin ollen päädytään lähelle perinteistä vendor lock-in tilannetta. Kun kukaan ei tiedä mitä muutosten tekeminen vaatii, voi tuotteen omistaja mielivaltaisesti määritellä kulut tai todeta ettei haluttuja muutoksia voi tehdä.
