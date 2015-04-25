@@ -6,7 +6,7 @@ Teollinen internet, josta paljon puhutaan on nimenä harhaanjohtava. Kyse on teo
 
 Toimialan julkisin varoin tuotetusta tiedosta on tehtävä avointa. Tieto on jaettava ilmaiseksi ja erityistä huomiota on kiinnitettävä julkisen tiedon rajapintoihin (API). Tieto, joka ei ole yksinkertaisesti ja automaattisesti haettavissa ja hyödynnettävissä, ei ole kovin arvokasta digitalisaation edistämisessä. 
 
-Perusperiaatteet toiminnalle: 
+Perusperiaatteet toiminnalle löytyy Tim O’Reillyn digitaalisen hallinnon pääkohdista: 
 * Tue avoimia standardeja.
 * Suunnittele palvelut tukemaan aktiivista osallistumista.
 * Tee asioiden kokeilemisesta helppoa.
