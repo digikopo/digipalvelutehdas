@@ -12,7 +12,7 @@ Avoimet rajapinnat ovat hyvä mutta riittämätön lähtökohta API strategialle
 
 ## Keskitetty kehitysympäristö ja versionhallinta
 
-julkict_lab_tunnusmmlnettiKehityksessä tulee käyttää aina kun mahdollista JulkICTLab ympäristöä. Lisäksi OKM:n toimialana tulee keskittää lähdekoodinhallinta Github palveluun tai vaihtoehtoisesti käyttää palveluavastaavaa ratkaisua Gitlab, joka löytyy jo valmiiksi JulkICTLabista. Github palvelun käyttöä puoltaa se fakta, että kehittäjät ovat jo siellä. Github palveluna on avoimen lähdekoodin yhteisön de facto palvelu ja siten kehittäjäpohja laaja. Eriytymällä omaan Gitlab palveluun eristämme itsemme muusta kehittämisyhteisöstä.
+Kehityksessä tulee käyttää aina kun mahdollista JulkICTLab ympäristöä. Lisäksi OKM:n toimialana tulee keskittää lähdekoodinhallinta Github palveluun tai vaihtoehtoisesti käyttää palveluavastaavaa ratkaisua Gitlab, joka löytyy jo valmiiksi JulkICTLabista. Github palvelun käyttöä puoltaa se fakta, että kehittäjät ovat jo siellä. Github palveluna on avoimen lähdekoodin yhteisön de facto palvelu ja siten kehittäjäpohja laaja. Eriytymällä omaan Gitlab palveluun eristämme itsemme muusta kehittämisyhteisöstä.
 Asiakas ja asiakas
 
 Toinen ohjaava arvo on design lähtöisyys. Palveludesign on jo jonkin aikaa ollut selkeästi nousussa osittain siitä syystä että se nostaa asiakkaan keskiöön. Hyviä ja käytettyjä palveluita ei luoda ilman asiakkaan kuulemista. Asiakas tulee ottaa design prosessiin mukaan niin aikaisin kuin mahdollista. Sama pätee rajapintoihin. Rajapintojen asiakas vain on eri kuin palvelujen asiakas. Palvelujen asiakas on Matti tai Maija Meikäläinen, joka palveluväylän kautta selaimella hoitaa arkensa asioita sinne luotujen palvelujen avulla. Rajapinnan asiakas on kehittäjä, se taho joka puolestaan rakentaa Matille ja Maijalle palvelujen käyttöliittymät ja logiikat palveluväylään.
@@ -26,6 +26,8 @@ Palveluväylässä on rajapintojen hallinta, mutta kaikki rajapinnat OKM toimial
 VTT-Technical-Research-Centre-of-FinlandKehittämisen konseptina tulee hyödyntää Avoimen tuotteen hallintamallin mukaista tuotteenhallintasuunnitelmaa. Avoimen tuotteen hallintamalli määrittelee säännöt, joilla voidaan perustaa julkisen hallinnon organisaatioille käyttäjäyhteisö avoimen lähdekoodin ohjelmistotuotteen kehittämistä, ohjausta ja hallintaa varten. Malli selkeyttää mm. tuotteen omistajuutta, osapuolten vastuita sekä palvelun ylläpidon ja kehittämisen ohjausta. VTT:n luomaa mallia pyritään soveltamaan kaikissa JulkICT:n projekteissa, joissa tuotetaan palveluja avoimella lähdekoodilla. Kuten aiemmin on todettu asiakkuuksia on ainakin kahden tyyppisiä, joista rajapinnan asiakas on kehittäjä. Rajapinta tulee siis nähdä palveluna siinä missä Matti ja Maija Meikäläisen käyttämät palveluväylän näkymät. Rajapinta on tuote ja sen kehittämiseen tulee käyttää myös Avoimen tuotteen hallintamallin mukaista tuotteenhallintasuunnitelmaa.
 
 Avoimen tuotteen hallintamallia tulee kehittää edelleen yhteistyössä VTT:n ja muiden tahojen kanssa. Mallia tulee kehittää siten, että se ottaa huomioon rajapintojen kehittämisen erityispiirteet. Alla oleva malli on yksi tapa nähdä rajapintojen kehittämisen malli.
+![alt text](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/apiops.png"rajapintojen kehittämisen malli")
+
 
 ## Iteratiivista ketterää kehitystä
 **Avainsanat**
