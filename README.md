@@ -37,7 +37,10 @@ Rajapintojen tulee olla tarkoitukseen sopivia. Monesti kevyet teknologiat kuten 
 Kehityksessä tulee käyttää aina kun mahdollista JulkICTLab ympäristöä. Lisäksi OKM:n toimialana tulee keskittää lähdekoodinhallinta Github palveluun tai vaihtoehtoisesti käyttää palveluavastaavaa ratkaisua Gitlab, joka löytyy jo valmiiksi JulkICTLabista. Github palvelun käyttöä puoltaa se fakta, että kehittäjät ovat jo siellä. Github palveluna on avoimen lähdekoodin yhteisön de facto palvelu ja siten kehittäjäpohja laaja. Eriytymällä omaan Gitlab palveluun eristämme itsemme muusta kehittämisyhteisöstä. On kuitenkin tilanteita, jolloin Gitlab käyttö opn perusteltua. Oletusarvoisesti kuitenkin käytetään Github palvelua. 
 
 **Toimenpiteet**
-* ....
+* Ministeriö ottaa Githubin käyttöön ja keskittää kehitysprojektiensa versionhallinnan Github palveluun oman organisaation alle. 
+* Github organisaatiolle nimetään vastaava henkilö
+* Github ympäristöä ja sen sisältämää tietoa hyödyntävän reaaliaikatilannekuvanäkymän luominen organisaatioittain (OKM, Opetushallitus, YTL). Eräänlainen dashboard joka mahdollistaa tiedon esittämisen kuvaajina. 
+* ...
 
 ## Asiakas ja asiakas
 
