@@ -4,7 +4,7 @@ OKM toimialana tarvitsee jalkautuksen sisältävän API strategian osana arkkite
 
 Teollinen internet, josta paljon puhutaan on nimenä harhaanjohtava. Kyse on teollisesta vallankumouksesta jonka vaikutukset ulottuvat koko yhteiskuntaan ja samat periaatteet tulevat vaikuttamaan jokapäiväiseen elämäämme. Emme siis opetussektorina voi tuudittautua uneen ja olla ottamatta ympärillä tapahtuvaa muutosta huomioon. Teollisen internetin yksi keskeisin elementti on webpohjaiset rajapinnat (API, Application Programmin Interface).
 
-Toimialan julkisin varoin tuotetusta tiedosta on tehtävä avointa. Tieto on jaettava ilmaiseksi ja erityistä huomiota on kiinnitettävä julkisen tiedon rajapintoihin. Tieto, joka ei ole yksinkertaisesti ja automaattisesti haettavissa ja hyödynnettävissä, ei ole kovin arvokasta digitalisaation edistämisessä. 
+Toimialan julkisin varoin tuotetusta tiedosta on tehtävä avointa. Tieto on jaettava ilmaiseksi ja erityistä huomiota on kiinnitettävä julkisen tiedon rajapintoihin (API). Tieto, joka ei ole yksinkertaisesti ja automaattisesti haettavissa ja hyödynnettävissä, ei ole kovin arvokasta digitalisaation edistämisessä. 
 
 ## Rajapintojen kehittäminen avoimella lähdekoodilla
 
