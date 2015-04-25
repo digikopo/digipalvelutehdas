@@ -53,7 +53,12 @@ Avoimen tuotteen hallintamallia tulee kehittää edelleen yhteistyössä VTT:n j
 * kokeilukulttuuri
 
 Massiiviset yli vuoden mittaiset rajapintojen kehitysprojektit tulee kieltää. Sen sijaan tulee kehittää kokeilukulttuuria ja tarvittaessa sisällyttää Avoimen tuotteen hallintamalliin. Digitalisaatiosta saadaan paras hyöty, kun yhteiskunnan kaikki prosessit suunnitellaan kokonaan uudella digitaalisuuteen sopivalla tavalla. Lisäksi tarvitaan kokeiluja eikä loppuun saakka hiottuja täydellisiä suunnitelmia. Toteutus tulee olla MVP tyyppiseen minimaalisen toteutukseen perustuvaa, jolloin tehdään vain välttämättömin osuus. Syntynyt tuotos testataan välittömästi loppukäyttäjillä ja saadun palautteen mukaan jatketaan kehitystä. Toisin sanoen kehitys tulee tapahtua avoimesti alussa raakileita ja keskeneräistä (mutta toimivaa) tuotosta hyväksikäyttäen.
-Palvelukehityksen portaali
+
+**Toimenpiteet**
+* ....
+
+
+## Palvelukehityksen portaali
 
 Keskitetty rajapintojen hallintapalvelusta on osa laajempaa kokonaisuutta, josta löytyy myös ajantasaiset rajapintojen dokumentaatiot, valmiit koodiesimerkit rajapintojen hyödyntämiseen, valmiit ohjelmistokomponenttikirjastot eri käyttöjärjestelmille (SDK), hiekkalaatikko API:en kokeilemiseen ja mahdollisuus vuorovaikutukseen kehittäjäyhteisön kanssa. Tässä kohdin tulee hyödyntää FORGE alustaa ja yhteisöä.
 
