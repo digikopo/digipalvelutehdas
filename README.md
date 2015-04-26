@@ -53,9 +53,15 @@ Hyviä ja käytettyjä palveluita ei luoda ilman asiakkaan kuulemista. Asiakas t
 
 ## Keskitetty rajapintojen hallinta
  
-Palveluväylässä on rajapintojen hallinta, mutta kaikki rajapinnat OKM toimialalla eivät käytä palveluväylää. Näin ollen tulee perustaa keskitetty rajapintojen hallintapalvelu. Keskitetty rajapintojen hallinta liittyy tuotteenhallintaan, jonka malli puolestaan on määritelty VTT:n kehittämässä avoimen tuotteen hallintamallissa.
+Toimialalla on jo useita REST pohjaisia rajapintoja muun muassa opintopolku järjestelmässä. Lisää palveluita ollaan kehittämässä, kuten esimerkiksi todennetun osaamisen rekisteri (TOR). Rajapintoja tulee väistämättä lisää ja suunta onkin laajasti rajapintoja hyödyntäviä palveluita kohti (kts kuva alla). Digitaaliset palvelut tyypillisesti käyttävät useaa rajapintaa kerätäksen tarvittavat tiedot, jotta voivat palvella asiakasta tarkoituksenmukaisesti pompottamatta digitaaliselta "luukulta" toiselle esittäen tiedot yhdessä näkymässä.
+
+Palveluväylässä on rajapintojen hallinta, mutta kaikki rajapinnat OKM toimialalla eivät käytä palveluväylää. Eikä ole tarkoituksenmukaista edes pakottaa kaikkia käyttämään palveluväylää. Ainakaan avoimen tiedon rajapinnat tulee eriyttää palveluväylästä ainakin aluksi. 
+
+Näin ollen tulee perustaa keskitetty rajapintojen hallintapalvelu ainakin avoimille rajapinnoille. Keskitetty rajapintojen hallinta liittyy tuotteenhallintaan, jonka malli puolestaan on määritelty VTT:n kehittämässä avoimen tuotteen hallintamallissa.
 
 ![alt text](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/keskitetty-api-hallinta.png)
+
+Hallintaratkaisu tulisi olla koko toimialan yhteinen ja näin keskittämällä saataisiin säästöjä. Mikäli erilaiset toimijat keskittävät rajapintojen hallinnan yhteen (kahdennettuun ja varmistettuun) API:en hallintapalveluun, nousee rajapintojen hyödynnettävyys huomattavasti. Silloin palvelujen kehittäjät löytävät tarvitsemansa tiedot ja kehittäjäyhteisön yhdestä paikasta. 
 
 **Toimenpiteet ja suositukset**
 * Perustaa koko toimialan käyttöön yhteinen API:en hallintaratkaisu (ei vain julkiselle sektorille, kaupallisille tahoille maksullinen) 
