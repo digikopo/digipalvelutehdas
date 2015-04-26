@@ -55,6 +55,8 @@ Hyviä ja käytettyjä palveluita ei luoda ilman asiakkaan kuulemista. Asiakas t
  
 Palveluväylässä on rajapintojen hallinta, mutta kaikki rajapinnat OKM toimialalla eivät käytä palveluväylää. Näin ollen tulee perustaa keskitetty rajapintojen hallintapalvelu. Keskitetty rajapintojen hallinta liittyy tuotteenhallintaan, jonka malli puolestaan on määritelty VTT:n kehittämässä avoimen tuotteen hallintamallissa.
 
+![alt text](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/keskitetty-api-hallinta.png)
+
 **Toimenpiteet ja suositukset**
 * Perustaa koko toimialan käyttöön yhteinen API:en hallintaratkaisu (ei vain julkiselle sektorille, kaupallisille tahoille maksullinen) 
 * Sovittaa API:en hallinta osaksi avoimen tuotteen hallintamallia osana API hallintamallin kehittämistä. 
