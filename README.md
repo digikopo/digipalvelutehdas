@@ -24,7 +24,7 @@ Avoimet rajapinnat ovat hyvä mutta riittämätön lähtökohta API strategialle
 
 
 **Toimenpiteet ja suositukset**
-* Sovelletaan [JHS 169](https://github.com/digiokm/api-standards):a rajapintatoteuksien tilaamisessa ja tuotannossa. 
+* Sovelletaan [JHS 169](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS169/JHS169.html):a rajapintatoteuksien tilaamisessa ja tuotannossa. 
 
 ## Yhdenmukaisesti käyttäytyvät rajapinnat
 
