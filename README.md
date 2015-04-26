@@ -25,7 +25,8 @@ Avoimet rajapinnat ovat hyvä mutta riittämätön lähtökohta API strategialle
 Lisäksi julkinen sektori on velvoitettu tuottamaan avointa tietoa ja edistämään keinoja uudelleenkäyttää tietoa. Näin ollen tulee huomioida rajapintoja ja palveluita kehitettäessä avoimen tiedon tarpeet. Toimialan julkisten toimijoiden tulee edistää avoimen tiedon määrän lisäämistä ja tiedon laadun parannusta. 
 
 **Toimenpiteet ja suositukset**
-* Sovelletaan [JHS 169](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS169/JHS169.html):a rajapintatoteuksien tilaamisessa ja tuotannossa. 
+* Sovelletaan [JHS 189](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS189/JHS189.html):a rajapintatoteuksien tilaamisessa ja tuotannossa. 
+* Avoimen tiedon laajamittainen soveltaminen palveluissa [JHS 169](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS169/JHS169.html)
 
 ## Yhdenmukaisesti käyttäytyvät rajapinnat
 
