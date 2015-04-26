@@ -22,6 +22,7 @@ Lista sisältää strategisia linjauksia ja ohjausta. Alla on avattu perusperiaa
 
 Avoimet rajapinnat ovat hyvä mutta riittämätön lähtökohta API strategialle. Rajapinnat tulee tehdä avointa lähdekoodia käyttäen. Pelkkien avoimien rajapintojen edistäminen ei riitä. Vaikka rajapinnat ovat avoimia ja kaikkien käytössä, myös rajapinnat muuttuvat käyttäjien tarpeiden mukaisesti. Rajapinnan kehittäminen puolestaan vaatii tuntemusta taustajärjestelmästä ja suljetun komponentin kohdalla se tieto on vain tuotteen omistajalla. Tämä puolestaan johtaa siihen tilanteeseen, että suljetun tuotteen omistaja voi mielivaltaisesti päättää mitä muutoksia rajapintaan tehdään jos tehdään ollenkaan. Toiseksi, tämä tilanne estää muutosten kehittämisen vapaan kilpailuttamisen kyseisen komponentin toteuttamien ominaisuuksien osalta. Näin ollen päädytään lähelle perinteistä vendor lock-in tilannetta. Kun kukaan ei tiedä mitä muutosten tekeminen vaatii, voi tuotteen omistaja mielivaltaisesti määritellä kulut tai todeta ettei haluttuja muutoksia voi tehdä.
 
+Lisäksi julkinen sektori on velvoitettu tuottamaan avointa tietoa ja edistämään keinoja uudelleenkäyttää tietoa. Näin ollen tulee huomioida rajapintoja ja palveluita kehitettäessä avoimen tiedon tarpeet. Toimialan julkisten toimijoiden tulee edistää avoimen tiedon määrän lisäämistä ja tiedon laadun parannusta. 
 
 **Toimenpiteet ja suositukset**
 * Sovelletaan [JHS 169](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS169/JHS169.html):a rajapintatoteuksien tilaamisessa ja tuotannossa. 
