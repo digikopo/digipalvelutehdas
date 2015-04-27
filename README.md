@@ -46,7 +46,7 @@ Kehityksessä tulee käyttää aina kun mahdollista JulkICTLab ympäristöä. Li
 * Github ympäristöä ja sen sisältämää tietoa hyödyntävän reaaliaikatilannekuvanäkymän luominen organisaatioittain (OKM, Opetushallitus, YTL). Eräänlainen dashboard joka mahdollistaa tiedon esittämisen kuvaajina. 
 * ...
 
-## Asiakas ja asiakas
+## Asiakaslähtöisyys
 
 Toinen ohjaava arvo on design lähtöisyys. Palveludesign on jo jonkin aikaa ollut selkeästi nousussa osittain siitä syystä että se nostaa asiakkaan keskiöön. Kokeilukulttuuri ja asiakkaiden osallistaminen kehittämiseen ovat tärkeä osa digitalisaatiota.
 
