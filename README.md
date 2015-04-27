@@ -110,7 +110,11 @@ Keskitetty rajapintojen hallintapalvelusta on osa laajempaa kokonaisuutta, josta
 
 Portaali tarjoaa rajapintojen asiakkaille eli palvelukehittäjille yhden pisteen, josta tieto ja rajapinnat löytyvät. Tämä puolestaan selkeyttää ja nopeuttaa palvelukehitystä, joka kuten aiemmin on todettu tulee entistä enemmän pohjautumaan webpohjaisten rajapintojen hyödyntämiseen. 
 
-Osana portaalin toimintaa on kontribuutiolisenssisopimuksien hallinta. AVAA CLA MERKITYS TÄHÄN. 
+Osana portaalin toimintaa on kontribuutiolisenssisopimuksien hallinta. CLA tarvitaan, koska sillä suojataan kaikkien tulevaisuutta, mutta ensisijaisesti projektia. 
+
+```CLAs simply shift legal blame for any patent infringement, copyright infringement, or other bad acts from the project (or its legal entity) back onto its contributors.```
+
+CLA:n käytössä olennaista on kontribuutiota hyväksyttäessä tarkistaa, että kyseinen taho on allekirjoittanut CLA sopimuksen. Tyypillisesti yhdistävänä tekijänä voidaan käyttää CLA allekirjoituksessa mainittua sähköpostiosoitetta ja github tilin sähköpostisoitetta. Toisin sanoen vain github prosessien kautta tulevat kontribuutiot voidaan hyväksyä, jotta on riittävä varmuus kontribuoijasta.   
 
 Esimerkki https://contribute.jquery.org/CLA/  
 
