@@ -50,7 +50,9 @@ Kehityksessä tulee käyttää aina kun mahdollista JulkICTLab ympäristöä. Li
 
 Toinen ohjaava arvo on design lähtöisyys. Palveludesign on jo jonkin aikaa ollut selkeästi nousussa osittain siitä syystä että se nostaa asiakkaan keskiöön. Kokeilukulttuuri ja asiakkaiden osallistaminen kehittämiseen ovat tärkeä osa digitalisaatiota.
 
-Hyviä ja käytettyjä palveluita ei luoda ilman asiakkaan kuulemista. Asiakas tulee ottaa design prosessiin mukaan niin aikaisin kuin mahdollista. Sama pätee rajapintoihin. Rajapintojen asiakas vain on eri kuin palvelujen asiakas. Palvelujen asiakas on Matti tai Maija Meikäläinen, joka palveluväylän kautta selaimella hoitaa arkensa asioita sinne luotujen palvelujen avulla. Rajapinnan asiakas on kehittäjä, se taho joka puolestaan rakentaa Matille ja Maijalle palvelujen käyttöliittymät ja logiikat palveluväylään.
+Hyviä ja käytettyjä palveluita ei luoda ilman asiakkaan kuulemista. Asiakas tulee ottaa design prosessiin mukaan niin aikaisin kuin mahdollista. Sama pätee rajapintoihin. Rajapintojen asiakas vain on eri kuin palvelujen asiakas. Palvelujen asiakas on Matti tai Maija Meikäläinen, joka palveluväylän kautta selaimella hoitaa arkensa asioita sinne luotujen palvelujen avulla. 
+
+Rajapinnan asiakas on kehittäjä, se taho joka puolestaan rakentaa Matille ja Maijalle palvelujen käyttöliittymät ja logiikat palveluväylään. Rajapinta-asiakasta houkutetellaan kehittähäportaalilla, josta löytyy ajantasaiset dokumentaatiot, koodiesimerkit, kehityskirjastot (SDK:t) erilaisille alustoille ja mahdollisuus olla yhteydessä kehittäjäyhteisön kanssa sekä rajapintojen kehittäjien kanssa. Rajapinnan kehittämistä on kuvattu tarkemmin kohdassa "Avoimen tuotteen hallintamalli" 
 
 **Toimenpiteet**
 * Palvelujen loppukäyttäjä tulee ottaa mukaan kehitysprosessiin alusta asti
