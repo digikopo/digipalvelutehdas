@@ -53,7 +53,10 @@ Toinen ohjaava arvo on design lähtöisyys. Palveludesign on jo jonkin aikaa oll
 Hyviä ja käytettyjä palveluita ei luoda ilman asiakkaan kuulemista. Asiakas tulee ottaa design prosessiin mukaan niin aikaisin kuin mahdollista. Sama pätee rajapintoihin. Rajapintojen asiakas vain on eri kuin palvelujen asiakas. Palvelujen asiakas on Matti tai Maija Meikäläinen, joka palveluväylän kautta selaimella hoitaa arkensa asioita sinne luotujen palvelujen avulla. Rajapinnan asiakas on kehittäjä, se taho joka puolestaan rakentaa Matille ja Maijalle palvelujen käyttöliittymät ja logiikat palveluväylään.
 
 **Toimenpiteet**
-* ....
+* Palvelujen loppukäyttäjä tulee ottaa mukaan kehitysprosessiin alusta asti
+* Rajapintojen suunnittelussa on API:n asiakkaat eli palvelukehittäjät ottaa mukaan alusta asti
+* Tuotokset mukaan lukien suunnitelmat tulevat avoimesti PDF muodossa Github palveluun
+* Tulee aktiivisesti kehittää ja ottaa käyttöön vuorovaikutustyökaluja ja menetelmiä kuten avoimet online palaverit 
 
 ## Keskitetty rajapintojen hallinta
  
