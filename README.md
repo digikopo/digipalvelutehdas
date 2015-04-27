@@ -18,6 +18,12 @@ Perusperiaatteet toiminnalle löytyy [Tim O’Reillyn digitaalisen hallinnon pä
 
 Lista sisältää strategisia linjauksia ja ohjausta. Alla on avattu perusperiaatteita tarkemmin ja esitelty tarvittavat toimenpiteet ja suositukset. 
 
+## Tilannekuvahuone
+Ministeriössä tulee olla palvelukehityksen tilannekuvahuone, jossa keskeiset projektipäälliköt ja hankepäälliköt sekä arkkitehdit tapaavat säännöllisesti jakaakseen tietoa ja koordinoidakseen kehitystä. Nykyinen tilannekuvahuone on K237 Meritullinkatu 10. Tilannekuvan luomiseen ja ylläpitämiseen saa osallistua jokaiselta osastolta yksi henkilö. Ryhmä tapaa joka toinen viikko. Palaveri on maksimissaan tunti. Tilannekuvahuoneen seinällä on kiinnitettynä 4 vaiheeseen projekteja ja niiden A4 kokoisia kuvauksia. 
+
+KUVA TÄHÄN
+
+
 ## Rajapintojen kehittäminen avoimella lähdekoodilla
 
 Avoimet rajapinnat ovat hyvä mutta riittämätön lähtökohta API strategialle. Rajapinnat tulee tehdä avointa lähdekoodia käyttäen. Pelkkien avoimien rajapintojen edistäminen ei riitä. Vaikka rajapinnat ovat avoimia ja kaikkien käytössä, myös rajapinnat muuttuvat käyttäjien tarpeiden mukaisesti. Rajapinnan kehittäminen puolestaan vaatii tuntemusta taustajärjestelmästä ja suljetun komponentin kohdalla se tieto on vain tuotteen omistajalla. Tämä puolestaan johtaa siihen tilanteeseen, että suljetun tuotteen omistaja voi mielivaltaisesti päättää mitä muutoksia rajapintaan tehdään jos tehdään ollenkaan. Toiseksi, tämä tilanne estää muutosten kehittämisen vapaan kilpailuttamisen kyseisen komponentin toteuttamien ominaisuuksien osalta. Näin ollen päädytään lähelle perinteistä vendor lock-in tilannetta. Kun kukaan ei tiedä mitä muutosten tekeminen vaatii, voi tuotteen omistaja mielivaltaisesti määritellä kulut tai todeta ettei haluttuja muutoksia voi tehdä.
@@ -46,8 +52,8 @@ Lisäksi OKM:n toimialana tulee keskittää lähdekoodinhallinta Github palveluu
 **Toimenpiteet**
 * Ministeriö ottaa Githubin käyttöön ja keskittää kehitysprojektiensa versionhallinnan Github palveluun oman organisaation alle. 
 * Github organisaatiolle nimetään vastaava henkilö
-* Github ympäristöä ja sen sisältämää tietoa hyödyntävän reaaliaikatilannekuvanäkymän luominen organisaatioittain (OKM, Opetushallitus, YTL). Eräänlainen dashboard joka mahdollistaa tiedon esittämisen kuvaajina. 
-* ...
+* Kehitetään github ympäristöön yhtenäinen MVP projektimalli. 
+* Github ympäristöä ja sen sisältämää tietoa hyödyntävän reaaliaikatilannekuvanäkymän luominen organisaatioittain (OKM, Opetushallitus, YTL). Eräänlainen dashboard joka mahdollistaa tiedon esittämisen kuvaajina ja toiminnan mittaamisen. 
 
 ## Asiakaslähtöisyys
 
