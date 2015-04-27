@@ -21,7 +21,7 @@ Lista sisältää strategisia linjauksia ja ohjausta. Alla on avattu perusperiaa
 ## Tilannekuvahuone
 Ministeriössä tulee olla palvelukehityksen tilannekuvahuone, jossa keskeiset projektipäälliköt ja hankepäälliköt sekä arkkitehdit tapaavat säännöllisesti jakaakseen tietoa ja koordinoidakseen kehitystä. Nykyinen tilannekuvahuone on K237 Meritullinkatu 10. Tilannekuvan luomiseen ja ylläpitämiseen saa osallistua jokaiselta osastolta yksi henkilö. Ryhmä tapaa joka toinen viikko. Palaveri on maksimissaan tunti. Tilannekuvahuoneen seinällä on kiinnitettynä 5 vaiheeseen projekteja ja niiden A4 kokoisia kuvauksia. Prosessina alla olevan kuvan tyyppinen
 
-![alt text](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/okm-tilannehuone-seina-1.png)
+![alt text](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/okm-tilannehuone-seina-2.png)
 
 ## Rajapintojen kehittäminen avoimella lähdekoodilla
 
