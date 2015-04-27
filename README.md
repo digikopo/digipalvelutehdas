@@ -88,13 +88,9 @@ Avoimen tuotteen hallintamallia tulee kehittää edelleen yhteistyössä VTT:n j
 
 ## Iteratiivista ketterää kehitystä
 
-**Avainsanat**
-* osallistava
-* avoin
-* ketterä
-* kokeilukulttuuri
+Kehitystä tulee kuvata sanat osallistava, avoin, ketterä ja kokeilu. Massiiviset yli vuoden mittaiset rajapintojen kehitysprojektit tulee kieltää. Sen sijaan tulee kehittää kokeilukulttuuria ja tarvittaessa sisällyttää Avoimen tuotteen hallintamalliin. Digitalisaatiosta saadaan paras hyöty, kun yhteiskunnan kaikki prosessit suunnitellaan kokonaan uudella digitaalisuuteen sopivalla tavalla. Lisäksi tarvitaan kokeiluja eikä loppuun saakka hiottuja täydellisiä suunnitelmia. Toteutus tulee olla MVP tyyppiseen minimaalisen toteutukseen perustuvaa, jolloin tehdään vain välttämättömin osuus. Syntynyt tuotos testataan välittömästi loppukäyttäjillä ja saadun palautteen mukaan jatketaan kehitystä. Toisin sanoen kehitys tulee tapahtua avoimesti alussa raakileita ja keskeneräistä (mutta toimivaa) tuotosta hyväksikäyttäen. 
 
-Massiiviset yli vuoden mittaiset rajapintojen kehitysprojektit tulee kieltää. Sen sijaan tulee kehittää kokeilukulttuuria ja tarvittaessa sisällyttää Avoimen tuotteen hallintamalliin. Digitalisaatiosta saadaan paras hyöty, kun yhteiskunnan kaikki prosessit suunnitellaan kokonaan uudella digitaalisuuteen sopivalla tavalla. Lisäksi tarvitaan kokeiluja eikä loppuun saakka hiottuja täydellisiä suunnitelmia. Toteutus tulee olla MVP tyyppiseen minimaalisen toteutukseen perustuvaa, jolloin tehdään vain välttämättömin osuus. Syntynyt tuotos testataan välittömästi loppukäyttäjillä ja saadun palautteen mukaan jatketaan kehitystä. Toisin sanoen kehitys tulee tapahtua avoimesti alussa raakileita ja keskeneräistä (mutta toimivaa) tuotosta hyväksikäyttäen.
+Minimum Viable Product (MVP) – Pienin Mahdollinen Tuote, jota edustaa mikä tahansa, joka auttaa seuraavan oppimisaskeleen ottamisessa. MVP:nä voi toimia esimerkiksi asiakashaastattelut tai ihmisen tekemisellä simuloitu tuote tai palvelu. Toki MVP:n roolin ottaa usein myös varhainen versio tavoitellusta tuotteesta. Tällöin on kuitenkin varmistettava, että tuotetta aidosti kehitetään vain seuraavan vaiheen testauksessa välttämättömien toimintojen verran. Tuotteen kehittäjällä on usein iso kynnys viedä asiakkaalle pelkkä raakile, mutta juuri näin tulee toimia edellyttäen että tällä kyetään seuraavan vaiheen opit keräämään.
 
 **Toimenpiteet**
 * ....
