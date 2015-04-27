@@ -23,7 +23,6 @@ Ministeriössä tulee olla palvelukehityksen tilannekuvahuone, jossa keskeiset p
 
 KUVA TÄHÄN
 
-
 ## Rajapintojen kehittäminen avoimella lähdekoodilla
 
 Avoimet rajapinnat ovat hyvä mutta riittämätön lähtökohta API strategialle. Rajapinnat tulee tehdä avointa lähdekoodia käyttäen. Pelkkien avoimien rajapintojen edistäminen ei riitä. Vaikka rajapinnat ovat avoimia ja kaikkien käytössä, myös rajapinnat muuttuvat käyttäjien tarpeiden mukaisesti. Rajapinnan kehittäminen puolestaan vaatii tuntemusta taustajärjestelmästä ja suljetun komponentin kohdalla se tieto on vain tuotteen omistajalla. Tämä puolestaan johtaa siihen tilanteeseen, että suljetun tuotteen omistaja voi mielivaltaisesti päättää mitä muutoksia rajapintaan tehdään jos tehdään ollenkaan. Toiseksi, tämä tilanne estää muutosten kehittämisen vapaan kilpailuttamisen kyseisen komponentin toteuttamien ominaisuuksien osalta. Näin ollen päädytään lähelle perinteistä vendor lock-in tilannetta. Kun kukaan ei tiedä mitä muutosten tekeminen vaatii, voi tuotteen omistaja mielivaltaisesti määritellä kulut tai todeta ettei haluttuja muutoksia voi tehdä.
@@ -109,7 +108,11 @@ Minimum Viable Product (MVP) – Pienin Mahdollinen Tuote, jota edustaa mikä ta
 
 Keskitetty rajapintojen hallintapalvelusta on osa laajempaa kokonaisuutta, josta löytyy myös ajantasaiset rajapintojen dokumentaatiot, valmiit koodiesimerkit rajapintojen hyödyntämiseen, valmiit ohjelmistokomponenttikirjastot eri käyttöjärjestelmille (SDK), hiekkalaatikko API:en kokeilemiseen ja mahdollisuus vuorovaikutukseen kehittäjäyhteisön kanssa. Tässä kohdin tulee hyödyntää FORGE alustaa ja yhteisöä.
 
-Portaali tarjoaa rajapintojen asiakkaille eli palvelukehittäjille yhden pisteen, josta tieto ja rajapinnat löytyvät. Tämä puolestaan selkeyttää ja nopeuttaa palvelukehitystä, joka kuten aiemmin on todettu tulee entistä enemmän pohjautumaan webpohjaisten rajapintojen hyödyntämiseen.
+Portaali tarjoaa rajapintojen asiakkaille eli palvelukehittäjille yhden pisteen, josta tieto ja rajapinnat löytyvät. Tämä puolestaan selkeyttää ja nopeuttaa palvelukehitystä, joka kuten aiemmin on todettu tulee entistä enemmän pohjautumaan webpohjaisten rajapintojen hyödyntämiseen. 
+
+Osana portaalin toimintaa on kontribuutiolisenssisopimuksien hallinta. AVAA CLA MERKITYS TÄHÄN. 
+
+Esimerkki https://contribute.jquery.org/CLA/  
 
 **Toimenpiteet**
 * ....
