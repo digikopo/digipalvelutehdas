@@ -4,8 +4,7 @@
 | ------------- |:-------------:| 
 | Vastuuhenkilö      | Jarkko Moilanen |
 | Versio      | 0.1 |
-
-
+---
 
 Vastuuhenkilö: Jarkko Moilanen, [@kyyberi](twitter.com/kyyberi)
 
