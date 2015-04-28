@@ -19,13 +19,15 @@ Ne ideat, joita ei hylätä päätyvät suunnitteluun. Idean esittäjä tyypilli
 
 Tavoite on, että vuoden 2016 aikana prosessi on digitalisoitu siten että projekticanvaksien tiedot syötetään pilvipalvelupohjaiseen ratkaisuun ja tulostetaan A4 paperiksi tilannehuoneen seinälle kiinnitettäväksi. Jos ja kun idea joka on projekticanvas muodossa läpäisee toisen käsittelyn, etenee se varsinaiseen suunnitteluun ei kevyen projektisuunnitelman tekemiseen. Jos taas canvaksen perusteella voidaan sanoa, että palvelu ei ole tarpeellinen, se siirretään arkistoon. 
 
-3. Käynnissä
+## 3. Käynnissä
 
-Jos kyseessä on uuden palvelun ensimmäinen versio:
-Jos kyseessä on PoC:
-Jos kyseessä on olemassa olevan palvelun toinen versio: 
+**Jos kyseessä on uuden palvelun ensimmäinen versio**
 
-4. Ylläpidossa
+**Jos kyseessä on PoC**
+
+**Jos kyseessä on olemassa olevan palvelun toinen versio** 
+
+## 4. Ylläpidossa
 
 **Jos kyseessä on uuden palvelun ensimmäinen versio**
 
