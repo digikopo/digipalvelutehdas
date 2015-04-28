@@ -88,22 +88,7 @@ Tarkennuksena mainitatkoon, että tarkoitus ei ole pakottaa kaikkia tekemään r
 **Toimenpiteet ja suositukset**
 * Määrittää ja ottaa käyttöön [API parhaat käytännöt](https://github.com/digiokm/api-standards) toimialan kehitystä teetettäessä. 
 
-
-### Asiakaslähtöisyys
-
-Toinen ohjaava arvo on design lähtöisyys. Palveludesign on jo jonkin aikaa ollut selkeästi nousussa osittain siitä syystä että se nostaa asiakkaan keskiöön. Kokeilukulttuuri ja asiakkaiden osallistaminen kehittämiseen ovat tärkeä osa digitalisaatiota.
-
-Hyviä ja käytettyjä palveluita ei luoda ilman asiakkaan kuulemista. Asiakas tulee ottaa design prosessiin mukaan niin aikaisin kuin mahdollista. Sama pätee rajapintoihin. Rajapintojen asiakas vain on eri kuin palvelujen asiakas. Palvelujen asiakas on Matti tai Maija Meikäläinen, joka palveluväylän kautta selaimella hoitaa arkensa asioita sinne luotujen palvelujen avulla. 
-
-Rajapinnan asiakas on kehittäjä, se taho joka puolestaan rakentaa Matille ja Maijalle palvelujen käyttöliittymät ja logiikat palveluväylään. Rajapinta-asiakasta houkutetellaan kehittähäportaalilla, josta löytyy ajantasaiset dokumentaatiot, koodiesimerkit, kehityskirjastot (SDK:t) erilaisille alustoille ja mahdollisuus olla yhteydessä kehittäjäyhteisön kanssa sekä rajapintojen kehittäjien kanssa. Rajapinnan kehittämistä on kuvattu tarkemmin kohdassa "Avoimen tuotteen hallintamalli" 
-
-**Toimenpiteet**
-* Palvelujen loppukäyttäjä tulee ottaa mukaan kehitysprosessiin alusta asti
-* Rajapintojen suunnittelussa on API:n asiakkaat eli palvelukehittäjät ottaa mukaan alusta asti
-* Tuotokset mukaan lukien suunnitelmat tulevat avoimesti PDF muodossa Github palveluun
-* Tulee aktiivisesti kehittää ja ottaa käyttöön vuorovaikutustyökaluja ja menetelmiä kuten avoimet online palaverit 
-
-## 4. Keskitetty rajapintojen hallinta
+### Keskitetty rajapintojen hallinta
  
 Toimialalla on jo useita REST pohjaisia rajapintoja muun muassa opintopolku järjestelmässä. Lisää palveluita ollaan kehittämässä, kuten esimerkiksi todennetun osaamisen rekisteri (TOR). Rajapintoja tulee väistämättä lisää ja suunta onkin laajasti rajapintoja hyödyntäviä palveluita kohti (kts kuva alla). Digitaaliset palvelut tyypillisesti käyttävät useaa rajapintaa kerätäksen tarvittavat tiedot, jotta voivat palvella asiakasta tarkoituksenmukaisesti pompottamatta digitaaliselta "luukulta" toiselle esittäen tiedot yhdessä näkymässä.
 
@@ -118,6 +103,20 @@ Hallintaratkaisu tulisi olla koko toimialan yhteinen ja näin keskittämällä s
 **Toimenpiteet ja suositukset**
 * Perustaa koko toimialan käyttöön yhteinen API:en hallintaratkaisu (ei vain julkiselle sektorille, kaupallisille tahoille maksullinen) 
 * Sovittaa API:en hallinta osaksi avoimen tuotteen hallintamallia osana API hallintamallin kehittämistä. 
+
+## 4. Asiakaslähtöisyys
+
+Toinen ohjaava arvo on design lähtöisyys. Palveludesign on jo jonkin aikaa ollut selkeästi nousussa osittain siitä syystä että se nostaa asiakkaan keskiöön. Kokeilukulttuuri ja asiakkaiden osallistaminen kehittämiseen ovat tärkeä osa digitalisaatiota.
+
+Hyviä ja käytettyjä palveluita ei luoda ilman asiakkaan kuulemista. Asiakas tulee ottaa design prosessiin mukaan niin aikaisin kuin mahdollista. Sama pätee rajapintoihin. Rajapintojen asiakas vain on eri kuin palvelujen asiakas. Palvelujen asiakas on Matti tai Maija Meikäläinen, joka palveluväylän kautta selaimella hoitaa arkensa asioita sinne luotujen palvelujen avulla. 
+
+Rajapinnan asiakas on kehittäjä, se taho joka puolestaan rakentaa Matille ja Maijalle palvelujen käyttöliittymät ja logiikat palveluväylään. Rajapinta-asiakasta houkutetellaan kehittähäportaalilla, josta löytyy ajantasaiset dokumentaatiot, koodiesimerkit, kehityskirjastot (SDK:t) erilaisille alustoille ja mahdollisuus olla yhteydessä kehittäjäyhteisön kanssa sekä rajapintojen kehittäjien kanssa. Rajapinnan kehittämistä on kuvattu tarkemmin kohdassa "Avoimen tuotteen hallintamalli" 
+
+**Toimenpiteet**
+* Palvelujen loppukäyttäjä tulee ottaa mukaan kehitysprosessiin alusta asti
+* Rajapintojen suunnittelussa on API:n asiakkaat eli palvelukehittäjät ottaa mukaan alusta asti
+* Tuotokset mukaan lukien suunnitelmat tulevat avoimesti PDF muodossa Github palveluun
+* Tulee aktiivisesti kehittää ja ottaa käyttöön vuorovaikutustyökaluja ja menetelmiä kuten avoimet online palaverit 
 
 ## 5. Avoimen tuotteen hallintamalli
 
