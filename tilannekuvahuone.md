@@ -8,5 +8,8 @@ Ensimmäisessä vaiheessa (ideat) on listattu otsikkoina tai joskus hieman tarke
 
 Sama voitaisiin tehdä virtuaalisena, mutta käytännössä on todettu tehokkaammaksi käyttää ainakin tässä vaiheessa fyysistä tilaa, jossa projektien päälliköt ja arkkitehdit voivat säännöllisesti kokoontua pitämään yllä yhteistä tilannekuvaa. On tutkitusti todettu että merkittävä osa tiedosta on hiljaista tietoa ja sen siirtyminen henkilöltä toiselle tapahtuu yleensä vain fyysisessä yhteistyössä. Lisäksi vuorovaikutus on syvempää fyysisessä tilassa. Lisäksi mahdollistetaan etäosallistuminen. 
 
+No ideat, joita ei hylätä päätyvät suunnitteluun. Idean esittäjä tyypillisesti vastaa suunnittelusta. Suunnitelman tekemisessäkin edetään kevyesti. Suunnitelman ensimmäisessä vaiheessa tehdään A4 kokoinen projekticanvas, joka arvioidaan seuraavassa tilannekatsauksessa. Projekticanvaksen tekemiseen ei saa kulua enempää kuin 2 viikkoa. 
+
+
 
 
