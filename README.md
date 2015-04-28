@@ -27,9 +27,10 @@ Malli sisältää 9 elementtiä:
 
 1. Tilannekuvahuone
 2. Keskitetty kehitysympäristö ja versionhallinta
-3. Rajapintojen kehittäminen avoimella lähdekoodilla
-4. Yhdenmukaisesti käyttäytyvät rajapinnat
-5. Keskitetty rajapintojen hallinta
+3. Rajapinnat fokuksessa
+   * kehittäminen avoimella lähdekoodilla
+   * Yhdenmukaisesti käyttäytyvät rajapinnat
+   *Keskitetty rajapintojen hallinta
 6. Asiakaslähtöisyys
 7. Avoimen tuotteen hallintamalli
 8. Iteratiivista ketterää kehitystä 
