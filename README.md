@@ -121,8 +121,8 @@ Hallintaratkaisu tulisi olla koko toimialan yhteinen ja näin keskittämällä s
 
 VTT-Technical-Research-Centre-of-FinlandKehittämisen konseptina tulee hyödyntää Avoimen tuotteen hallintamallin mukaista tuotteenhallintasuunnitelmaa. Avoimen tuotteen hallintamalli määrittelee säännöt, joilla voidaan perustaa julkisen hallinnon organisaatioille käyttäjäyhteisö avoimen lähdekoodin ohjelmistotuotteen kehittämistä, ohjausta ja hallintaa varten. Malli selkeyttää mm. tuotteen omistajuutta, osapuolten vastuita sekä palvelun ylläpidon ja kehittämisen ohjausta. VTT:n luomaa mallia pyritään soveltamaan kaikissa JulkICT:n projekteissa, joissa tuotetaan palveluja avoimella lähdekoodilla. Kuten aiemmin on todettu asiakkuuksia on ainakin kahden tyyppisiä, joista rajapinnan asiakas on kehittäjä. Rajapinta tulee siis nähdä palveluna siinä missä Matti ja Maija Meikäläisen käyttämät palveluväylän näkymät. Rajapinta on tuote ja sen kehittämiseen tulee käyttää myös Avoimen tuotteen hallintamallin mukaista tuotteenhallintasuunnitelmaa.
 
-Avoimen tuotteen hallintamallia tulee kehittää edelleen yhteistyössä VTT:n ja muiden tahojen kanssa. Mallia tulee kehittää siten, että se ottaa huomioon rajapintojen kehittämisen erityispiirteet. Alla oleva malli on yksi tapa nähdä rajapintojen kehittämisen malli.
-![alt text](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/apiops.png)
+Avoimen tuotteen hallintamallia tulee kehittää edelleen yhteistyössä VTT:n ja muiden tahojen kanssa. Mallia tulee kehittää siten, että se ottaa huomioon rajapintojen kehittämisen erityispiirteet. [Desing First -malli](https://github.com/digiokm/palvelukehitys/blob/master/api-design-first.md) on yksi tapa nähdä rajapintojen kehittämisen malli.
+
 
 **Toimenpiteet**
 * ....
