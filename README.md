@@ -1,8 +1,9 @@
 # OKM toimialan API- ja palvelukehitysmalli
 
-| Vastuuhenkilö |      Versio         |
+| Otsikko |               |
 | ------------- |:-------------:| 
-| Jarkko Moilanen      | 0.1 |
+| Vastuuhenkilö      | Jarkko Moilanen |
+| Versio      | 0.1 |
 
 
 
