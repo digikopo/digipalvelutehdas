@@ -67,7 +67,7 @@ Lisäksi julkinen sektori on velvoitettu tuottamaan avointa tietoa ja edistämä
 **Toimenpiteet ja suositukset**
 * Sovelletaan [JHS 189](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS189/JHS189.html):a rajapintatoteuksien tilaamisessa ja tuotannossa. 
 * Avoimen tiedon laajamittainen soveltaminen palveluissa [JHS 169](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS169/JHS169.html)
-* 
+* Rajapintojen kehityksessä käytetään mahdollisuuksien mukaan [Design First mallia](https://github.com/digiokm/palvelukehitys/blob/master/api-design-first.md). 
 
 ## 4. Yhdenmukaisesti käyttäytyvät rajapinnat
 
