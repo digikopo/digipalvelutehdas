@@ -1,5 +1,8 @@
 # OKM toimialan API- ja palvelukehitysmalli
 
+Versio:0.1
+Vastuuhenkilö: Jarkko Moilanen([@kyyberi])(twitter.com/kyyberi)
+
 OKM toimialana tarvitsee jalkautuksen sisältävän API strategian osana arkkitehtuurisuunnittelua. Strategioita on jo monia kuten esimerkiksi älystrategia, mutta niiden vika on että ne jäävät paperitiikereiksi…tai oikeastaan bittitiikereiksi makaamaan palvelimien ja kovalevyjen nurkkiin. Lähtökohta tulee olla palvelujen rakentaminen osaksi kansallista palveluarkkitehtuuria. Kaikkien toimien tulee edistää tätä tavoitetta ja madaltaa kynnystä innovoida uusia tapoja käyttää digitalisoituvaa tietoa entistä tehokkaammin ja monipuolisemmin.
 
 Tavoitteet ja linjaukset toiminnalle löytyy [Tim O’Reillyn digitaalisen hallinnon pääkohdista](http://chimera.labs.oreilly.com/books/1234000000774/ch02.html#lesson_1_open_standards_spark_innovation): 
