@@ -1,9 +1,11 @@
 # OKM toimialan API- ja palvelukehitysmalli
 
 <table>
-<th>
+<thead>
+<tr>
 <td>Versio:</td>
-</th>
+<tr>
+</thead>
 </table>
 
 
