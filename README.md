@@ -1,5 +1,12 @@
 # OKM toimialan API- ja palvelukehitysmalli
 
+<table>
+<th>
+<td>Versio:</td>
+</th>
+</table>
+
+
 Versio:0.1
 
 Vastuuhenkilö: Jarkko Moilanen, [@kyyberi](twitter.com/kyyberi)
