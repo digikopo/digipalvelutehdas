@@ -30,7 +30,11 @@ Malli sisältää 9 elementtiä:
 
 
 ## 1. Tilannekuvahuone
-Ministeriössä tulee olla palvelukehityksen tilannekuvahuone, jossa keskeiset projektipäälliköt ja hankepäälliköt sekä arkkitehdit tapaavat säännöllisesti jakaakseen tietoa ja koordinoidakseen kehitystä. Nykyinen tilannekuvahuone on K237 Meritullinkatu 10. Tilannekuvan luomiseen ja ylläpitämiseen saa osallistua jokaiselta osastolta yksi henkilö. Ryhmä tapaa joka toinen viikko. Palaveri on maksimissaan tunti. Tilannekuvahuoneen seinällä on kiinnitettynä 5 vaiheeseen projekteja ja niiden A4 kokoisia kuvauksia. Prosessina alla olevan kuvan tyyppinen
+Tällä hetkellä tieto ja ymmärrys palvelukehityksen kokonaiskuvasta on heikko. Osastot ja virastot tekevät omia ratkaisujaan. Keskustelu osastojen välillä on lisääntynyt, mutta siltikään ei ole tapaa pitää yllä yhteistä tilannekuvaa. Näin ollen johdolla ei ole tietoa, jonka pohjalta tehdä päätöksiä kokonaistaloudellisesti järkevällä tavalla. 
+
+Ministeriössä tulee olla palvelukehityksen tilannekuvahuone, jossa toimialan (ml OPH, YTL) keskeiset projektipäälliköt ja hankepäälliköt sekä arkkitehdit tapaavat säännöllisesti jakaakseen tietoa ja koordinoidakseen kehitystä. Nykyinen tilannekuvahuone on muodostunut huoneeseen K237 Meritullinkatu 10. 
+
+Tilannekuvan luomiseen ja ylläpitämiseen saa osallistua jokaiselta osastolta yksi henkilö. Ryhmä tapaa joka toinen viikko. Palaveri on maksimissaan tunti. Tilannekuvahuoneen seinällä on kiinnitettynä 5 vaiheeseen projekteja ja niiden A4 kokoisia kuvauksia. Prosessina alla olevan kuvan tyyppinen
 
 ![alt text](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/okm-tilannehuone-seina-2.png)
 
