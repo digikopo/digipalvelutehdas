@@ -40,6 +40,11 @@ Tilannekuvan luomiseen ja ylläpitämiseen saa osallistua jokaiselta osastolta y
 
 Tarkempi kuvaus tilannehuoneen järjestelyistä ja käytännöistä on [kuvattu omassa tiedostossa](https://github.com/digiokm/palvelukehitys/blob/master/tilannekuvahuone.md)
 
+**Toimenpiteet**
+* Ministeriössä jatketaan ja laajennetaan tilannehuoneen käyttöä osana tilannekuvan muodostamista ja ylläpitoa. 
+* Kehitetään [projektien canvas-mallia](https://github.com/digiokm/palvelukehitys/blob/master/tilannekuvahuone.md#2-suunnittelu) ja prosessia osana muuta kehitystä == käytetään mallia osana toimintaa.
+
+
 ## 2. Keskitetty kehitysympäristö ja versionhallinta
 
 Kehityksessä tulee käyttää aina kun mahdollista JulkICTLab ympäristöä tai sen johdannaista. Valtiovarainministeriö käynnisti julkisen hallinnon palvelu- ja innovaatiotoiminnan kehittämisalustan -toteutusprojektin 2013 osana julkisen hallinnon ICT-strategian toimeenpanoa. JulkICTLab -alustan tavoitteena on tukea julkisen hallinnon ICT-ratkaisuja ja toimintamalleja kehittävien ekosysteemien syntyä yhteistyössä alan toimijoiden kanssa ja tarjota kehittämislaboratorio (ml. ympäristö ja työkalut) toiminnan tueksi. JulkICTLab kytkeytyy läheisesti kansalliseen avoimen tiedon ohjelmaan, koska palvelu- ja innovaatiotoiminnassa on tarkoitus pyrkiä hyödyntämään myös julkisen hallinnon avautuvia tietoaineistoja. Lab vietiin tuotantokäyttöön 2014 ja vuoden 2015 toteutetaan jatkokehittämistoimenpiteet. JulkICTLab on toteutettu yhteistyössä liikenne- ja viestintäministeriön rahoittaman innovaatioalustan (FORGE) kanssa.
