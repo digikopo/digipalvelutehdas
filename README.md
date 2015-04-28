@@ -110,9 +110,9 @@ Minimum Viable Product (MVP) – Pienin Mahdollinen Tuote, jota edustaa mikä ta
 
 Keskitetty rajapintojen hallintapalvelusta on osa laajempaa kokonaisuutta, josta löytyy myös ajantasaiset rajapintojen dokumentaatiot, valmiit koodiesimerkit rajapintojen hyödyntämiseen, valmiit ohjelmistokomponenttikirjastot eri käyttöjärjestelmille (SDK), hiekkalaatikko API:en kokeilemiseen ja mahdollisuus vuorovaikutukseen kehittäjäyhteisön kanssa. Tässä kohdin tulee hyödyntää FORGE alustaa ja yhteisöä.
 
-Portaali tarjoaa rajapintojen asiakkaille eli palvelukehittäjille yhden pisteen, josta tieto ja rajapinnat löytyvät. Tämä puolestaan selkeyttää ja nopeuttaa palvelukehitystä, joka kuten aiemmin on todettu tulee entistä enemmän pohjautumaan webpohjaisten rajapintojen hyödyntämiseen. 
+[Portaali](https://github.com/digiokm/palvelukehitys/blob/master/palvelukehitysportaali.md) tarjoaa rajapintojen asiakkaille eli palvelukehittäjille yhden pisteen, josta tieto ja rajapinnat löytyvät. Tämä puolestaan selkeyttää ja nopeuttaa palvelukehitystä, joka kuten aiemmin on todettu tulee entistä enemmän pohjautumaan webpohjaisten rajapintojen hyödyntämiseen. 
 
-Osana portaalin toimintaa on kontribuutiolisenssisopimuksien hallinta. CLA tarvitaan, koska sillä suojataan kaikkien tulevaisuutta, mutta ensisijaisesti projektia. 
+Osana [portaalin](https://github.com/digiokm/palvelukehitys/blob/master/palvelukehitysportaali.md) toimintaa on kontribuutiolisenssisopimuksien hallinta. CLA tarvitaan, koska sillä suojataan kaikkien tulevaisuutta, mutta ensisijaisesti projektia. 
 
 ```CLAs simply shift legal blame for any patent infringement, copyright infringement, or other bad acts from the project (or its legal entity) back onto its contributors....There are three important components to any contributor agreement: an assertion that the contributor has the right to contribute the code, a statement of actual contribution, and consent that the code may be distributed under the project's licenses. ```
 
@@ -121,9 +121,7 @@ Lue myös:
 * https://www.clahub.com/pages/why_cla
 * https://opensource.com/law/11/7/trouble-harmony-part-1
 
-CLA:n käytössä olennaista on kontribuutiota hyväksyttäessä tarkistaa, että kyseinen taho on allekirjoittanut CLA sopimuksen. Tyypillisesti yhdistävänä tekijänä voidaan käyttää CLA allekirjoituksessa mainittua sähköpostiosoitetta ja github tilin sähköpostisoitetta. Toisin sanoen vain github prosessien kautta tulevat kontribuutiot voidaan hyväksyä, jotta on riittävä varmuus kontribuoijasta.   
-
-Esimerkki https://contribute.jquery.org/CLA/  
+CLA:n käytössä olennaista on kontribuutiota hyväksyttäessä tarkistaa, että kyseinen taho on allekirjoittanut CLA sopimuksen. Tyypillisesti yhdistävänä tekijänä voidaan käyttää CLA allekirjoituksessa mainittua sähköpostiosoitetta ja github tilin sähköpostisoitetta. Toisin sanoen vain github prosessien kautta tulevat kontribuutiot voidaan hyväksyä, jotta on riittävä varmuus kontribuoijasta. Esimerkki https://contribute.jquery.org/CLA/  
 
 **Toimenpiteet**
 * ....
