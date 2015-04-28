@@ -10,6 +10,6 @@ Sama voitaisiin tehdä virtuaalisena, mutta käytännössä on todettu tehokkaam
 
 No ideat, joita ei hylätä päätyvät suunnitteluun. Idean esittäjä tyypillisesti vastaa suunnittelusta. Suunnitelman tekemisessäkin edetään kevyesti. Suunnitelman ensimmäisessä vaiheessa tehdään A4 kokoinen projekticanvas, joka arvioidaan seuraavassa tilannekatsauksessa. Projekticanvaksen tekemiseen ei saa kulua enempää kuin 2 viikkoa. 
 
-
+Tavoite on, että vuoden 2016 aikana prosessi on digitalisoitu siten että projekti canvaksien tiedot syötetään pilvipalvelupohjaiseen ratkaisuun ja tulostetaan A4 paperiksi tilannehuoneen seinälle kiinnitettäväksi. 
 
 
