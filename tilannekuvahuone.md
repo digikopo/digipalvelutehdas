@@ -27,6 +27,9 @@ Jos kyseessä on olemassa olevan palvelun toinen versio:
 
 4. Ylläpidossa
 
-Jos kyseessä on uuden palvelun ensimmäinen versio:
-Jos kyseessä on PoC:
-Jos kyseessä on olemassa olevan palvelun toinen versio: 
+**Jos kyseessä on uuden palvelun ensimmäinen versio**
+
+**Jos kyseessä on PoC**
+
+**Jos kyseessä on olemassa olevan palvelun toinen versio** 
+
