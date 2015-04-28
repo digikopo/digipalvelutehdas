@@ -23,7 +23,7 @@ Ministeriössä tulee olla palvelukehityksen tilannekuvahuone, jossa keskeiset p
 
 ![alt text](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/okm-tilannehuone-seina-2.png)
 
-Tarkempi kuvaus tilannehuoneen järjestelyistä ja käytännöistä on [kuvattu omassa kansiossa](https://github.com/digiokm/tilannekuvahuone)
+Tarkempi kuvaus tilannehuoneen järjestelyistä ja käytännöistä on [kuvattu omassa tiedostossa](https://github.com/digiokm/palvelukehitys/blob/master/tilannekuvahuone.md)
 
 ## Rajapintojen kehittäminen avoimella lähdekoodilla
 
