@@ -13,7 +13,9 @@ Sama voitaisiin tehdä virtuaalisena, mutta käytännössä on todettu tehokkaam
 
 ## Suunnittelu
 
-Ne ideat, joita ei hylätä päätyvät suunnitteluun. Idean esittäjä tyypillisesti vastaa suunnittelusta. Suunnitelman tekemisessäkin edetään kevyesti. Suunnitelman ensimmäisessä vaiheessa tehdään A4 kokoinen projekticanvas, joka arvioidaan seuraavassa tilannekatsauksessa. Projekticanvaksen tekemiseen ei saa kulua enempää kuin viikko ja canvas tulee olla tilannekatsausta edeltävänä päivänä osallistujen tiedossa. 
+Ne ideat, joita ei hylätä päätyvät suunnitteluun. Idean esittäjä tyypillisesti vastaa suunnittelusta. Suunnitelman tekemisessäkin edetään kevyesti. Suunnitelman ensimmäisessä vaiheessa tehdään A4 kokoinen projekticanvas (kts kuvakaappaus alla), joka arvioidaan seuraavassa tilannekatsauksessa. Projekticanvaksen tekemiseen ei saa kulua enempää kuin viikko ja canvas tulee olla tilannekatsausta edeltävänä päivänä osallistujen tiedossa. 
+
+![alt text](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/projekti-canvas.png)
 
 Tavoite on, että vuoden 2016 aikana prosessi on digitalisoitu siten että projekticanvaksien tiedot syötetään pilvipalvelupohjaiseen ratkaisuun ja tulostetaan A4 paperiksi tilannehuoneen seinälle kiinnitettäväksi. Jos ja kun idea joka on projekticanvas muodossa läpäisee toisen käsittelyn, etenee se varsinaiseen suunnitteluun ei kevyen projektisuunnitelman tekemiseen. Jos taas canvaksen perusteella voidaan sanoa, että palvelu ei ole tarpeellinen, se siirretään arkistoon. 
 
