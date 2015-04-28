@@ -98,6 +98,9 @@ Näin ollen tulee perustaa keskitetty rajapintojen hallintapalvelu ainakin avoim
 
 ![alt text](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/keskitetty-api-hallinta.png)
 
+### OKM case
+![alt text](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/keskitetty-api-hallinta-okm.png)
+
 Hallintaratkaisu tulisi olla koko toimialan yhteinen ja näin keskittämällä saataisiin säästöjä. Mikäli erilaiset toimijat keskittävät rajapintojen hallinnan yhteen (kahdennettuun ja varmistettuun) API:en hallintapalveluun, nousee rajapintojen hyödynnettävyys huomattavasti. Silloin palvelujen kehittäjät löytävät tarvitsemansa tiedot ja kehittäjäyhteisön yhdestä paikasta. 
 
 **Toimenpiteet ja suositukset**
