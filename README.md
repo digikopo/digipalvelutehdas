@@ -42,6 +42,7 @@ Tarkempi kuvaus tilannehuoneen järjestelyistä ja käytännöistä on [kuvattu 
 
 **Toimenpiteet**
 * Ministeriössä jatketaan ja laajennetaan tilannehuoneen käyttöä osana tilannekuvan muodostamista ja ylläpitoa. 
+* Kutsutaan mukaan OPH ja YTL 
 * Kehitetään [projektien canvas-mallia](https://github.com/digiokm/palvelukehitys/blob/master/tilannekuvahuone.md#2-suunnittelu) ja prosessia osana muuta kehitystä == käytetään mallia osana toimintaa.
 
 
@@ -54,8 +55,8 @@ Lisäksi OKM:n toimialana tulee keskittää lähdekoodinhallinta Github palveluu
 **Toimenpiteet**
 * Ministeriö ottaa Githubin käyttöön ja keskittää kehitysprojektiensa versionhallinnan Github palveluun oman organisaation alle. 
 * Github organisaatiolle nimetään vastaava henkilö
-* Kehitetään github ympäristöön yhtenäinen MVP projektimalli. 
-* Github ympäristöä ja sen sisältämää tietoa hyödyntävän reaaliaikatilannekuvanäkymän luominen organisaatioittain (OKM, Opetushallitus, YTL). Eräänlainen dashboard joka mahdollistaa tiedon esittämisen kuvaajina ja toiminnan mittaamisen. 
+* Kehitetään github ympäristöön yhtenäinen MVP projektimalli ([canvas](https://github.com/digiokm/palvelukehitys/blob/master/tilannekuvahuone.md#2-suunnittelu) + käytännöt). 
+* Github ympäristöä ja sen sisältämää tietoa hyödyntävän reaaliaikatilannekuvanäkymän luominen organisaatioittain (OKM, Opetushallitus, YTL). Mahdollistaa tiedon esittämisen kuvaajina ja toiminnan mittaamisen. 
 
 ## 3. Rajapintojen kehittäminen avoimella lähdekoodilla
 
@@ -66,6 +67,7 @@ Lisäksi julkinen sektori on velvoitettu tuottamaan avointa tietoa ja edistämä
 **Toimenpiteet ja suositukset**
 * Sovelletaan [JHS 189](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS189/JHS189.html):a rajapintatoteuksien tilaamisessa ja tuotannossa. 
 * Avoimen tiedon laajamittainen soveltaminen palveluissa [JHS 169](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS169/JHS169.html)
+* 
 
 ## 4. Yhdenmukaisesti käyttäytyvät rajapinnat
 
