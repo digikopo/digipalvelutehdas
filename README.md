@@ -23,7 +23,7 @@ Toimialan julkisin varoin tuotetusta tiedosta on tehtävä avointa. Tieto on jae
 
 [JHS-järjestelmän mukaiset suositukset](http://www.jhs-suositukset.fi) koskevat valtion- ja kunnallishallinnon tietohallintoa. Sisällöltään JHS voi olla julkishallinnossa käytettäväksi tarkoitettu yhtenäinen menettelytapa, määrittely tai ohje. JHS-järjestelmän tavoitteena on parantaa tietojärjestelmien ja niiden tietojen yhteentoimivuutta, luoda edellytykset hallinto- ja sektorirajoista riippumattomalle toimintojen kehittämiselle sekä tehostaa olemassa olevan tiedon hyödyntämistä. Suosituksilla pyritään myös minimoimaan päällekkäistä kehittämistyötä, ohjaamaan tietojärjestelmien kehittämistä ja saamaan aikaan hyviä ja yhdenmukaisia käytäntöjä julkishallintoon ja erityisesti julkisten organisaatioiden tietohallintoon. Suositukset hyväksyy julkisen hallinnon tietohallinnon neuvottelukunta [JUHTA](https://wiki.julkict.fi/julkict/juhta) ja niiden laatimista ohjaa JUHTAn alainen JHS-jaosto. OKM:n tulee aktiivisesti osallistua JHS työhön, hyödyntää olemassa olevaa ja viedä omia hyviä käytäntöjään osaksi JHS-järjestelmää.  
 
-Malli sisältää 9 elementtiä: 
+Malli sisältää 7 periaatetta ja toimintoa: 
 
 1. Tilannekuvahuone
 2. Keskitetty kehitysympäristö ja versionhallinta
