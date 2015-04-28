@@ -30,11 +30,11 @@ Malli sisältää 9 elementtiä:
 3. Rajapinnat fokuksessa
    * kehittäminen avoimella lähdekoodilla
    * Yhdenmukaisesti käyttäytyvät rajapinnat
-   *Keskitetty rajapintojen hallinta
-6. Asiakaslähtöisyys
-7. Avoimen tuotteen hallintamalli
-8. Iteratiivista ketterää kehitystä 
-9. Palvelukehityksen portaali
+   * Keskitetty rajapintojen hallinta
+4. Asiakaslähtöisyys
+5. Avoimen tuotteen hallintamalli
+6. Iteratiivista ketterää kehitystä 
+7. Palvelukehityksen portaali
 
 
 ## 1. Tilannekuvahuone
@@ -66,7 +66,9 @@ Lisäksi OKM:n toimialana tulee keskittää lähdekoodinhallinta Github palveluu
 * Kehitetään github ympäristöön yhtenäinen MVP projektimalli ([canvas](https://github.com/digiokm/palvelukehitys/blob/master/tilannekuvahuone.md#2-suunnittelu) + käytännöt). 
 * Github ympäristöä ja sen sisältämää tietoa hyödyntävän reaaliaikatilannekuvanäkymän luominen organisaatioittain (OKM, Opetushallitus, YTL). Mahdollistaa tiedon esittämisen kuvaajina ja toiminnan mittaamisen. 
 
-## 3. Rajapintojen kehittäminen avoimella lähdekoodilla
+## 3. Rajapinnat fokuksessa 
+
+### Kehittäminen avoimella lähdekoodilla
 
 Avoimet rajapinnat ovat hyvä mutta riittämätön lähtökohta API strategialle. Rajapinnat tulee tehdä avointa lähdekoodia käyttäen. Pelkkien avoimien rajapintojen edistäminen ei riitä. Vaikka rajapinnat ovat avoimia ja kaikkien käytössä, myös rajapinnat muuttuvat käyttäjien tarpeiden mukaisesti. Rajapinnan kehittäminen puolestaan vaatii tuntemusta taustajärjestelmästä ja suljetun komponentin kohdalla se tieto on vain tuotteen omistajalla. Tämä puolestaan johtaa siihen tilanteeseen, että suljetun tuotteen omistaja voi mielivaltaisesti päättää mitä muutoksia rajapintaan tehdään jos tehdään ollenkaan. Toiseksi, tämä tilanne estää muutosten kehittämisen vapaan kilpailuttamisen kyseisen komponentin toteuttamien ominaisuuksien osalta. Näin ollen päädytään lähelle perinteistä vendor lock-in tilannetta. Kun kukaan ei tiedä mitä muutosten tekeminen vaatii, voi tuotteen omistaja mielivaltaisesti määritellä kulut tai todeta ettei haluttuja muutoksia voi tehdä.
 
@@ -77,7 +79,7 @@ Lisäksi julkinen sektori on velvoitettu tuottamaan avointa tietoa ja edistämä
 * Avoimen tiedon laajamittainen soveltaminen palveluissa [JHS 169](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS169/JHS169.html)
 * Rajapintojen kehityksessä käytetään mahdollisuuksien mukaan [Design First mallia](https://github.com/digiokm/palvelukehitys/blob/master/api-design-first.md). 
 
-## 4. Yhdenmukaisesti käyttäytyvät rajapinnat
+### Yhdenmukaisesti käyttäytyvät rajapinnat
 
 Rajapintojen tulee olla tarkoitukseen sopivia. Monesti kevyet teknologiat kuten JSON ja REST ovat hyvä lähtökohta ja niitä tuleekin harkita ensimmäisenä vaihtoehtona. Vasta perustellusti voi käyttää muita teknologioita kuten XML ja SOAP. Rajapintojen tulee rakentua ja käyttäytyä loogisesti samalla lailla. Tämä edistää ja nopeuttaa rajapintojen käyttöönottoa palveluita kehitettäessä. Esimerkiksi Kun kehittäjä oppii että opetussektorin rajapintojen virhetilanteidenkäsittely menee tyypillisesti yhdellä ja samalla tavalla, ei kehittäjän tarvitse opetella tai implementoida omassa ratkaisussaan koodia uudelleen vaan hän voi uudelleenkäyttää aiemmin opittua ja tuotettua. 
 
@@ -87,8 +89,7 @@ Tarkennuksena mainitatkoon, että tarkoitus ei ole pakottaa kaikkia tekemään r
 * Määrittää ja ottaa käyttöön [API parhaat käytännöt](https://github.com/digiokm/api-standards) toimialan kehitystä teetettäessä. 
 
 
-
-## 5. Asiakaslähtöisyys
+### Asiakaslähtöisyys
 
 Toinen ohjaava arvo on design lähtöisyys. Palveludesign on jo jonkin aikaa ollut selkeästi nousussa osittain siitä syystä että se nostaa asiakkaan keskiöön. Kokeilukulttuuri ja asiakkaiden osallistaminen kehittämiseen ovat tärkeä osa digitalisaatiota.
 
@@ -102,7 +103,7 @@ Rajapinnan asiakas on kehittäjä, se taho joka puolestaan rakentaa Matille ja M
 * Tuotokset mukaan lukien suunnitelmat tulevat avoimesti PDF muodossa Github palveluun
 * Tulee aktiivisesti kehittää ja ottaa käyttöön vuorovaikutustyökaluja ja menetelmiä kuten avoimet online palaverit 
 
-## 6. Keskitetty rajapintojen hallinta
+## 4. Keskitetty rajapintojen hallinta
  
 Toimialalla on jo useita REST pohjaisia rajapintoja muun muassa opintopolku järjestelmässä. Lisää palveluita ollaan kehittämässä, kuten esimerkiksi todennetun osaamisen rekisteri (TOR). Rajapintoja tulee väistämättä lisää ja suunta onkin laajasti rajapintoja hyödyntäviä palveluita kohti (kts kuva alla). Digitaaliset palvelut tyypillisesti käyttävät useaa rajapintaa kerätäksen tarvittavat tiedot, jotta voivat palvella asiakasta tarkoituksenmukaisesti pompottamatta digitaaliselta "luukulta" toiselle esittäen tiedot yhdessä näkymässä.
 
@@ -118,7 +119,7 @@ Hallintaratkaisu tulisi olla koko toimialan yhteinen ja näin keskittämällä s
 * Perustaa koko toimialan käyttöön yhteinen API:en hallintaratkaisu (ei vain julkiselle sektorille, kaupallisille tahoille maksullinen) 
 * Sovittaa API:en hallinta osaksi avoimen tuotteen hallintamallia osana API hallintamallin kehittämistä. 
 
-## 7. Avoimen tuotteen hallintamalli
+## 5. Avoimen tuotteen hallintamalli
 
 VTT-Technical-Research-Centre-of-FinlandKehittämisen konseptina tulee hyödyntää Avoimen tuotteen hallintamallin mukaista tuotteenhallintasuunnitelmaa. Avoimen tuotteen hallintamalli määrittelee säännöt, joilla voidaan perustaa julkisen hallinnon organisaatioille käyttäjäyhteisö avoimen lähdekoodin ohjelmistotuotteen kehittämistä, ohjausta ja hallintaa varten. Malli selkeyttää mm. tuotteen omistajuutta, osapuolten vastuita sekä palvelun ylläpidon ja kehittämisen ohjausta. VTT:n luomaa mallia pyritään soveltamaan kaikissa JulkICT:n projekteissa, joissa tuotetaan palveluja avoimella lähdekoodilla. Kuten aiemmin on todettu asiakkuuksia on ainakin kahden tyyppisiä, joista rajapinnan asiakas on kehittäjä. Rajapinta tulee siis nähdä palveluna siinä missä Matti ja Maija Meikäläisen käyttämät palveluväylän näkymät. Rajapinta on tuote ja sen kehittämiseen tulee käyttää myös Avoimen tuotteen hallintamallin mukaista tuotteenhallintasuunnitelmaa.
 
@@ -128,7 +129,7 @@ Avoimen tuotteen hallintamallia tulee kehittää edelleen yhteistyössä VTT:n j
 **Toimenpiteet**
 * ....
 
-## 8. Iteratiivista ketterää kehitystä
+## 6. Iteratiivista ketterää kehitystä
 
 Kehitystä tulee kuvata sanat osallistava, avoin, ketterä ja kokeilu. Massiiviset yli vuoden mittaiset rajapintojen kehitysprojektit tulee kieltää. Sen sijaan tulee kehittää kokeilukulttuuria ja tarvittaessa sisällyttää Avoimen tuotteen hallintamalliin. Digitalisaatiosta saadaan paras hyöty, kun yhteiskunnan kaikki prosessit suunnitellaan kokonaan uudella digitaalisuuteen sopivalla tavalla. Lisäksi tarvitaan kokeiluja eikä loppuun saakka hiottuja täydellisiä suunnitelmia. Toteutus tulee olla MVP tyyppiseen minimaalisen toteutukseen perustuvaa, jolloin tehdään vain välttämättömin osuus. Syntynyt tuotos testataan välittömästi loppukäyttäjillä ja saadun palautteen mukaan jatketaan kehitystä. Toisin sanoen kehitys tulee tapahtua avoimesti alussa raakileita ja keskeneräistä (mutta toimivaa) tuotosta hyväksikäyttäen. 
 
@@ -138,7 +139,7 @@ Minimum Viable Product (MVP) – Pienin Mahdollinen Tuote, jota edustaa mikä ta
 * ....
 
 
-## 9. Palvelukehityksen portaali
+## 7. Palvelukehityksen portaali
 
 Keskitetty rajapintojen hallintapalvelusta on osa laajempaa kokonaisuutta, josta löytyy myös ajantasaiset rajapintojen dokumentaatiot, valmiit koodiesimerkit rajapintojen hyödyntämiseen, valmiit ohjelmistokomponenttikirjastot eri käyttöjärjestelmille (SDK), hiekkalaatikko API:en kokeilemiseen ja mahdollisuus vuorovaikutukseen kehittäjäyhteisön kanssa. Tässä kohdin tulee hyödyntää FORGE alustaa ja yhteisöä.
 
