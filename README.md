@@ -2,13 +2,7 @@
 
 OKM toimialana tarvitsee jalkautuksen sisältävän API strategian osana arkkitehtuurisuunnittelua. Strategioita on jo monia kuten esimerkiksi älystrategia, mutta niiden vika on että ne jäävät paperitiikereiksi…tai oikeastaan bittitiikereiksi makaamaan palvelimien ja kovalevyjen nurkkiin. Lähtökohta tulee olla palvelujen rakentaminen osaksi kansallista palveluarkkitehtuuria. Kaikkien toimien tulee edistää tätä tavoitetta ja madaltaa kynnystä innovoida uusia tapoja käyttää digitalisoituvaa tietoa entistä tehokkaammin ja monipuolisemmin.
 
-Teollinen internet, josta paljon puhutaan on nimenä harhaanjohtava. Kyse on teollisesta vallankumouksesta jonka vaikutukset ulottuvat koko yhteiskuntaan ja samat periaatteet tulevat vaikuttamaan jokapäiväiseen elämäämme. Teollinen internet (joskus myös esineiden internet < engl. The Internet of Things tai IoT) viittaa yksilöitävissä olevien sulautettujen tietokoneiden kaltaisten järjestelmien yhteenliitokseen olemassaolevan internetin infrastruktuurissa. Teollisuuden murroksessa perinteisissä teollisuustuotteissa aletaan hyödyntää internetiä, nanotekniikkaa sekä muuta viestintä- ja tietotekniikkaa. Teollisessa internetissä esineille annetaan tunnistettava identiteetti ja ne alkavat viestiä keskenään. Verkkoon kytkeytyvät laitteet voivat olla esimerkiksi teollisuus-, koti-, palvelu- tai hoivarobotteja. Emme siis opetussektorina voi tuudittautua uneen ja olla ottamatta ympärillä tapahtuvaa muutosta huomioon. Teollisen internetin yksi keskeisin elementti on webpohjaiset rajapinnat (API, Application Programming Interface).
-
-Toimialan julkisin varoin tuotetusta tiedosta on tehtävä avointa. Tieto on jaettava ilmaiseksi ja erityistä huomiota on kiinnitettävä julkisen tiedon rajapintoihin (API). Tieto, joka ei ole yksinkertaisesti ja automaattisesti haettavissa ja hyödynnettävissä, ei ole kovin arvokasta digitalisaation edistämisessä. 
-
-[JHS-järjestelmän mukaiset suositukset](http://www.jhs-suositukset.fi) koskevat valtion- ja kunnallishallinnon tietohallintoa. Sisällöltään JHS voi olla julkishallinnossa käytettäväksi tarkoitettu yhtenäinen menettelytapa, määrittely tai ohje. JHS-järjestelmän tavoitteena on parantaa tietojärjestelmien ja niiden tietojen yhteentoimivuutta, luoda edellytykset hallinto- ja sektorirajoista riippumattomalle toimintojen kehittämiselle sekä tehostaa olemassa olevan tiedon hyödyntämistä. Suosituksilla pyritään myös minimoimaan päällekkäistä kehittämistyötä, ohjaamaan tietojärjestelmien kehittämistä ja saamaan aikaan hyviä ja yhdenmukaisia käytäntöjä julkishallintoon ja erityisesti julkisten organisaatioiden tietohallintoon. Suositukset hyväksyy julkisen hallinnon tietohallinnon neuvottelukunta [JUHTA](https://wiki.julkict.fi/julkict/juhta) ja niiden laatimista ohjaa JUHTAn alainen JHS-jaosto. OKM:n tulee aktiivisesti osallistua JHS työhön, hyödyntää olemassa olevaa ja viedä omia hyviä käytäntöjään osaksi JHS-järjestelmää.  
-
-Perusperiaatteet toiminnalle löytyy [Tim O’Reillyn digitaalisen hallinnon pääkohdista](http://chimera.labs.oreilly.com/books/1234000000774/ch02.html#lesson_1_open_standards_spark_innovation): 
+Tavoitteet ja linjaukset toiminnalle löytyy [Tim O’Reillyn digitaalisen hallinnon pääkohdista](http://chimera.labs.oreilly.com/books/1234000000774/ch02.html#lesson_1_open_standards_spark_innovation): 
 * Tue avoimia standardeja.
 * Suunnittele palvelut tukemaan aktiivista osallistumista.
 * Tee asioiden kokeilemisesta helppoa.
@@ -16,7 +10,22 @@ Perusperiaatteet toiminnalle löytyy [Tim O’Reillyn digitaalisen hallinnon pä
 * Luo edistymisen mittaamisen kulttuuri.
 * Rakenna yksinkertaisia digitaalisia palveluita, joita on helppo kehittää
 
-Lista sisältää strategisia linjauksia ja ohjausta. Alla on avattu perusperiaatteita tarkemmin ja esitelty tarvittavat toimenpiteet ja suositukset. 
+Teollinen internet, josta paljon puhutaan on nimenä harhaanjohtava. Kyse on teollisesta vallankumouksesta jonka vaikutukset ulottuvat koko yhteiskuntaan ja samat periaatteet tulevat vaikuttamaan jokapäiväiseen elämäämme. Teollinen internet (joskus myös esineiden internet < engl. The Internet of Things tai IoT) viittaa yksilöitävissä olevien sulautettujen tietokoneiden kaltaisten järjestelmien yhteenliitokseen olemassaolevan internetin infrastruktuurissa. Teollisuuden murroksessa perinteisissä teollisuustuotteissa aletaan hyödyntää internetiä, nanotekniikkaa sekä muuta viestintä- ja tietotekniikkaa. Teollisessa internetissä esineille annetaan tunnistettava identiteetti ja ne alkavat viestiä keskenään. Verkkoon kytkeytyvät laitteet voivat olla esimerkiksi teollisuus-, koti-, palvelu- tai hoivarobotteja. Emme siis opetussektorina voi tuudittautua uneen ja olla ottamatta ympärillä tapahtuvaa muutosta huomioon. Teollisen internetin yksi keskeisin elementti on webpohjaiset rajapinnat (API, Application Programming Interface).
+
+Toimialan julkisin varoin tuotetusta tiedosta on tehtävä avointa. Tieto on jaettava ilmaiseksi ja erityistä huomiota on kiinnitettävä julkisen tiedon rajapintoihin (API). Tieto, joka ei ole yksinkertaisesti ja automaattisesti haettavissa ja hyödynnettävissä, ei ole kovin arvokasta digitalisaation edistämisessä. 
+
+[JHS-järjestelmän mukaiset suositukset](http://www.jhs-suositukset.fi) koskevat valtion- ja kunnallishallinnon tietohallintoa. Sisällöltään JHS voi olla julkishallinnossa käytettäväksi tarkoitettu yhtenäinen menettelytapa, määrittely tai ohje. JHS-järjestelmän tavoitteena on parantaa tietojärjestelmien ja niiden tietojen yhteentoimivuutta, luoda edellytykset hallinto- ja sektorirajoista riippumattomalle toimintojen kehittämiselle sekä tehostaa olemassa olevan tiedon hyödyntämistä. Suosituksilla pyritään myös minimoimaan päällekkäistä kehittämistyötä, ohjaamaan tietojärjestelmien kehittämistä ja saamaan aikaan hyviä ja yhdenmukaisia käytäntöjä julkishallintoon ja erityisesti julkisten organisaatioiden tietohallintoon. Suositukset hyväksyy julkisen hallinnon tietohallinnon neuvottelukunta [JUHTA](https://wiki.julkict.fi/julkict/juhta) ja niiden laatimista ohjaa JUHTAn alainen JHS-jaosto. OKM:n tulee aktiivisesti osallistua JHS työhön, hyödyntää olemassa olevaa ja viedä omia hyviä käytäntöjään osaksi JHS-järjestelmää.  
+
+1. Tilannekuvahuone
+2. Keskitetty kehitysympäristö ja versionhallinta
+3. Rajapintojen kehittäminen avoimella lähdekoodilla
+4. Yhdenmukaisesti käyttäytyvät rajapinnat
+5. Keskitetty rajapintojen hallinta
+6. Asiakaslähtöisyys
+7. Avoimen tuotteen hallintamalli
+8. Iteratiivista ketterää kehitystä 
+9. Palvelukehityksen portaali
+
 
 ## 1. Tilannekuvahuone
 Ministeriössä tulee olla palvelukehityksen tilannekuvahuone, jossa keskeiset projektipäälliköt ja hankepäälliköt sekä arkkitehdit tapaavat säännöllisesti jakaakseen tietoa ja koordinoidakseen kehitystä. Nykyinen tilannekuvahuone on K237 Meritullinkatu 10. Tilannekuvan luomiseen ja ylläpitämiseen saa osallistua jokaiselta osastolta yksi henkilö. Ryhmä tapaa joka toinen viikko. Palaveri on maksimissaan tunti. Tilannekuvahuoneen seinällä on kiinnitettynä 5 vaiheeseen projekteja ja niiden A4 kokoisia kuvauksia. Prosessina alla olevan kuvan tyyppinen
@@ -25,26 +34,7 @@ Ministeriössä tulee olla palvelukehityksen tilannekuvahuone, jossa keskeiset p
 
 Tarkempi kuvaus tilannehuoneen järjestelyistä ja käytännöistä on [kuvattu omassa tiedostossa](https://github.com/digiokm/palvelukehitys/blob/master/tilannekuvahuone.md)
 
-## 2. Rajapintojen kehittäminen avoimella lähdekoodilla
-
-Avoimet rajapinnat ovat hyvä mutta riittämätön lähtökohta API strategialle. Rajapinnat tulee tehdä avointa lähdekoodia käyttäen. Pelkkien avoimien rajapintojen edistäminen ei riitä. Vaikka rajapinnat ovat avoimia ja kaikkien käytössä, myös rajapinnat muuttuvat käyttäjien tarpeiden mukaisesti. Rajapinnan kehittäminen puolestaan vaatii tuntemusta taustajärjestelmästä ja suljetun komponentin kohdalla se tieto on vain tuotteen omistajalla. Tämä puolestaan johtaa siihen tilanteeseen, että suljetun tuotteen omistaja voi mielivaltaisesti päättää mitä muutoksia rajapintaan tehdään jos tehdään ollenkaan. Toiseksi, tämä tilanne estää muutosten kehittämisen vapaan kilpailuttamisen kyseisen komponentin toteuttamien ominaisuuksien osalta. Näin ollen päädytään lähelle perinteistä vendor lock-in tilannetta. Kun kukaan ei tiedä mitä muutosten tekeminen vaatii, voi tuotteen omistaja mielivaltaisesti määritellä kulut tai todeta ettei haluttuja muutoksia voi tehdä.
-
-Lisäksi julkinen sektori on velvoitettu tuottamaan avointa tietoa ja edistämään keinoja uudelleenkäyttää tietoa. Näin ollen tulee huomioida rajapintoja ja palveluita kehitettäessä avoimen tiedon tarpeet. Toimialan julkisten toimijoiden tulee edistää avoimen tiedon määrän lisäämistä ja tiedon laadun parannusta. 
-
-**Toimenpiteet ja suositukset**
-* Sovelletaan [JHS 189](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS189/JHS189.html):a rajapintatoteuksien tilaamisessa ja tuotannossa. 
-* Avoimen tiedon laajamittainen soveltaminen palveluissa [JHS 169](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS169/JHS169.html)
-
-## 3. Yhdenmukaisesti käyttäytyvät rajapinnat
-
-Rajapintojen tulee olla tarkoitukseen sopivia. Monesti kevyet teknologiat kuten JSON ja REST ovat hyvä lähtökohta ja niitä tuleekin harkita ensimmäisenä vaihtoehtona. Vasta perustellusti voi käyttää muita teknologioita kuten XML ja SOAP. Rajapintojen tulee rakentua ja käyttäytyä loogisesti samalla lailla. Tämä edistää ja nopeuttaa rajapintojen käyttöönottoa palveluita kehitettäessä. Esimerkiksi Kun kehittäjä oppii että opetussektorin rajapintojen virhetilanteidenkäsittely menee tyypillisesti yhdellä ja samalla tavalla, ei kehittäjän tarvitse opetella tai implementoida omassa ratkaisussaan koodia uudelleen vaan hän voi uudelleenkäyttää aiemmin opittua ja tuotettua. 
-
-Tarkennuksena mainitatkoon, että tarkoitus ei ole pakottaa kaikkia tekemään rajapinnan implementaatio samalla koodilla tai käyttäen samoja REST- kutsuja. Tarkoitus on standardoida tavat miten rajapinnat suunnitellaan ja toteutetaan. 
-
-**Toimenpiteet ja suositukset**
-* Määrittää ja ottaa käyttöön [API parhaat käytännöt](https://github.com/digiokm/api-standards) toimialan kehitystä teetettäessä. 
-
-## 4. Keskitetty kehitysympäristö ja versionhallinta
+## 2. Keskitetty kehitysympäristö ja versionhallinta
 
 Kehityksessä tulee käyttää aina kun mahdollista JulkICTLab ympäristöä tai sen johdannaista. Valtiovarainministeriö käynnisti julkisen hallinnon palvelu- ja innovaatiotoiminnan kehittämisalustan -toteutusprojektin 2013 osana julkisen hallinnon ICT-strategian toimeenpanoa. JulkICTLab -alustan tavoitteena on tukea julkisen hallinnon ICT-ratkaisuja ja toimintamalleja kehittävien ekosysteemien syntyä yhteistyössä alan toimijoiden kanssa ja tarjota kehittämislaboratorio (ml. ympäristö ja työkalut) toiminnan tueksi. JulkICTLab kytkeytyy läheisesti kansalliseen avoimen tiedon ohjelmaan, koska palvelu- ja innovaatiotoiminnassa on tarkoitus pyrkiä hyödyntämään myös julkisen hallinnon avautuvia tietoaineistoja. Lab vietiin tuotantokäyttöön 2014 ja vuoden 2015 toteutetaan jatkokehittämistoimenpiteet. JulkICTLab on toteutettu yhteistyössä liikenne- ja viestintäministeriön rahoittaman innovaatioalustan (FORGE) kanssa.
 
@@ -55,6 +45,27 @@ Lisäksi OKM:n toimialana tulee keskittää lähdekoodinhallinta Github palveluu
 * Github organisaatiolle nimetään vastaava henkilö
 * Kehitetään github ympäristöön yhtenäinen MVP projektimalli. 
 * Github ympäristöä ja sen sisältämää tietoa hyödyntävän reaaliaikatilannekuvanäkymän luominen organisaatioittain (OKM, Opetushallitus, YTL). Eräänlainen dashboard joka mahdollistaa tiedon esittämisen kuvaajina ja toiminnan mittaamisen. 
+
+## 3. Rajapintojen kehittäminen avoimella lähdekoodilla
+
+Avoimet rajapinnat ovat hyvä mutta riittämätön lähtökohta API strategialle. Rajapinnat tulee tehdä avointa lähdekoodia käyttäen. Pelkkien avoimien rajapintojen edistäminen ei riitä. Vaikka rajapinnat ovat avoimia ja kaikkien käytössä, myös rajapinnat muuttuvat käyttäjien tarpeiden mukaisesti. Rajapinnan kehittäminen puolestaan vaatii tuntemusta taustajärjestelmästä ja suljetun komponentin kohdalla se tieto on vain tuotteen omistajalla. Tämä puolestaan johtaa siihen tilanteeseen, että suljetun tuotteen omistaja voi mielivaltaisesti päättää mitä muutoksia rajapintaan tehdään jos tehdään ollenkaan. Toiseksi, tämä tilanne estää muutosten kehittämisen vapaan kilpailuttamisen kyseisen komponentin toteuttamien ominaisuuksien osalta. Näin ollen päädytään lähelle perinteistä vendor lock-in tilannetta. Kun kukaan ei tiedä mitä muutosten tekeminen vaatii, voi tuotteen omistaja mielivaltaisesti määritellä kulut tai todeta ettei haluttuja muutoksia voi tehdä.
+
+Lisäksi julkinen sektori on velvoitettu tuottamaan avointa tietoa ja edistämään keinoja uudelleenkäyttää tietoa. Näin ollen tulee huomioida rajapintoja ja palveluita kehitettäessä avoimen tiedon tarpeet. Toimialan julkisten toimijoiden tulee edistää avoimen tiedon määrän lisäämistä ja tiedon laadun parannusta. 
+
+**Toimenpiteet ja suositukset**
+* Sovelletaan [JHS 189](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS189/JHS189.html):a rajapintatoteuksien tilaamisessa ja tuotannossa. 
+* Avoimen tiedon laajamittainen soveltaminen palveluissa [JHS 169](http://docs.jhs-suositukset.fi/jhs-suositukset/JHS169/JHS169.html)
+
+## 4. Yhdenmukaisesti käyttäytyvät rajapinnat
+
+Rajapintojen tulee olla tarkoitukseen sopivia. Monesti kevyet teknologiat kuten JSON ja REST ovat hyvä lähtökohta ja niitä tuleekin harkita ensimmäisenä vaihtoehtona. Vasta perustellusti voi käyttää muita teknologioita kuten XML ja SOAP. Rajapintojen tulee rakentua ja käyttäytyä loogisesti samalla lailla. Tämä edistää ja nopeuttaa rajapintojen käyttöönottoa palveluita kehitettäessä. Esimerkiksi Kun kehittäjä oppii että opetussektorin rajapintojen virhetilanteidenkäsittely menee tyypillisesti yhdellä ja samalla tavalla, ei kehittäjän tarvitse opetella tai implementoida omassa ratkaisussaan koodia uudelleen vaan hän voi uudelleenkäyttää aiemmin opittua ja tuotettua. 
+
+Tarkennuksena mainitatkoon, että tarkoitus ei ole pakottaa kaikkia tekemään rajapinnan implementaatio samalla koodilla tai käyttäen samoja REST- kutsuja. Tarkoitus on standardoida tavat miten rajapinnat suunnitellaan ja toteutetaan. 
+
+**Toimenpiteet ja suositukset**
+* Määrittää ja ottaa käyttöön [API parhaat käytännöt](https://github.com/digiokm/api-standards) toimialan kehitystä teetettäessä. 
+
+
 
 ## 5. Asiakaslähtöisyys
 
