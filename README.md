@@ -3,7 +3,8 @@
 | Otsikko |               |
 | ------------- |:-------------:| 
 | Vastuuhenkilö      | Jarkko Moilanen, [@kyyberi](twitter.com/kyyberi)  |
-| Versio      | 0.1 |
+| Versio      | 0.2 |
+| Päiväys      | 29.4.2015 |
 ---
 
 
