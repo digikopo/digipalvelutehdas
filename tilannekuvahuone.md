@@ -8,7 +8,10 @@ Tilannekuvahuone on fyysinen tila, jossa on seinällä A4 kokoisella paperilla k
 ## Palvelukehitystehdas - 6/30 malli
 OKM vetoiset kehitysprojektit vakioidaan mahdollisimman pitkälle. Näin saamme aikaiseksi merkittäviä säästöjä, koska prosessi on selkeä ja tehokas. Kehityksessä sovelletaan "6/30 -sääntöä". Tarkoitus on saada nopealla syklillä tieto, onko ideasta tai palvelusta hyötyä, ratkooko se asiakaskunnan ongelman. Toisin sanoen nopeasti saada tieto mitä ideoita jatketaan ja mitä ei. 
 
-Säännön mukaan jokaisen uuden projektin **ensimmäinen vaihe saa kestää enintään 6 kuukautta**, jonka jälkeen pitää olla esittää konkreettisia tuloksia. Tuloksen ei odoteta olevan valmis palvelu tai ratkaisu vaan enemmänkin proof of concept tyyppinen toteutus. Selkeyden vuoksi mainittakoon että määrittelyn kirjoittaminen projektina ei kelpaa. Tuloksien tulee olla käytännöllisiä ja lopputuoteen tai palvelun saavuttamista edistävä konkreettinen totetus. Vaiheen kustannukset saa olla maksimissaan 30 000€. Syy rajaan tulee hankintalaista. Alle 30 000€ hankinnat voidaan tehdä huomattavasti kevyemmällä prosessilla.   
+Säännön mukaan jokaisen uuden projektin **ensimmäinen vaihe saa kestää enintään 6 kuukautta**, jonka jälkeen pitää olla esittää konkreettisia tuloksia. Tuloksen ei odoteta olevan valmis palvelu tai ratkaisu vaan enemmänkin proof of concept tyyppinen toteutus. Selkeyden vuoksi mainittakoon että määrittelyn kirjoittaminen projektina ei kelpaa. Tuloksien tulee olla käytännöllisiä ja lopputuoteen tai palvelun saavuttamista edistävä konkreettinen totetus. Vaiheen **kustannukset saa olla maksimissaan 30 000€**. Syy rajaan tulee hankintalaista. Alle 30 000€ hankinnat voidaan tehdä huomattavasti kevyemmällä prosessilla ja nopeammin. Lopuksi projektin tuotokset arvioidaan ja päätetään jatkosta: ei jatku tai jatkuu uudella sunnitelmalla (eli uusi kierros). Jokainen pro
+
+KUVA TÄHÄN
+
 
 
 ## 1. Ideoiden kerääminen
