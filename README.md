@@ -158,5 +158,8 @@ Lue myös:
 
 CLA:n käytössä olennaista on kontribuutiota hyväksyttäessä tarkistaa, että kyseinen taho on allekirjoittanut CLA sopimuksen. Tyypillisesti yhdistävänä tekijänä voidaan käyttää CLA allekirjoituksessa mainittua sähköpostiosoitetta ja github tilin sähköpostisoitetta. Toisin sanoen vain github prosessien kautta tulevat kontribuutiot voidaan hyväksyä, jotta on riittävä varmuus kontribuoijasta. Esimerkki https://contribute.jquery.org/CLA/  
 
+Lue lisää [palveluportaalin määrittelystä](https://github.com/digiokm/palvelukehitysportaali/tree/master)
+
 **Toimenpiteet**
-* ....
+* Perustetaan palvelukehityksen portaali PoC vuoden loppuun mennessä
+* määritellään PoC minimum viable tyyppisesti
