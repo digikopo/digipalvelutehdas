@@ -46,3 +46,5 @@ Tavoite on, että vuoden 2016 aikana prosessi on digitalisoitu siten että proje
 
 **Jos kyseessä on olemassa olevan palvelun toinen versio** 
 
+## Ylläpito
+Projektipäällikkö vastaa siitä, että palvelulle on huolehdittu tuotantoympäristö ja ylläpito (vastuuhenkilö/taho tiedossa kaikilla). 
