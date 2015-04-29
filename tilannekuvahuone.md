@@ -10,7 +10,7 @@ OKM vetoiset kehitysprojektit vakioidaan mahdollisimman pitkälle. Näin saamme 
 
 Säännön mukaan jokaisen uuden projektin **ensimmäinen vaihe saa kestää enintään 6 kuukautta**, jonka jälkeen pitää olla esittää konkreettisia tuloksia. Tuloksen ei odoteta olevan valmis palvelu tai ratkaisu vaan enemmänkin proof of concept tyyppinen toteutus. Selkeyden vuoksi mainittakoon että määrittelyn kirjoittaminen projektina ei kelpaa. Tuloksien tulee olla käytännöllisiä ja lopputuoteen tai palvelun saavuttamista edistävä konkreettinen totetus. Vaiheen **kustannukset saa olla maksimissaan 30 000€**. Syy rajaan tulee hankintalaista. Alle 30 000€ hankinnat voidaan tehdä huomattavasti kevyemmällä prosessilla ja nopeammin. Lopuksi projektin tuotokset arvioidaan ja päätetään jatkosta: ei jatku tai jatkuu uudella sunnitelmalla (eli uusi kierros). Jokainen pro
 
-KUVA TÄHÄN
+![alt](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/projekti-tehdas-kaavio.png)
 
 
 
