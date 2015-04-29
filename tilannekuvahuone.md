@@ -14,7 +14,7 @@ Jokainen projekti lähtee ideasta, joita kerätään tilannehuoneen seinälle. I
 
 ![alt](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/projekti-tehdas-kaavio.png)
 
-Kun projekti tulee toisen kierroksen päähän, tehdään jälleen evaluointi. Tällä kertaa päätetään että onko vielä kehitettävää tai riittääkö resurssit jatkaa nyt. Jos ei, siirtyy palvelu ylläpitoon. Muussa tapauksessa palataan canvaksen päivitykseen ja toteutussuunnitelman päivitykseen. Kuvassa oleva 2 viikon päivitysaika on ohjeellinen ja sitä on muuutettava tarpeen mukaan. 
+Jatkoprojektin budjetti voi olla suurempi kuin 30 000€. Mikäli määrä ylittää 500 000€, viedään projekti hankesalkkuun. Kun projekti tulee toisen kierroksen päähän, tehdään jälleen evaluointi. Tällä kertaa päätetään että onko vielä kehitettävää tai riittääkö resurssit jatkaa nyt. Jos ei, siirtyy palvelu ylläpitoon. Muussa tapauksessa palataan canvaksen päivitykseen ja toteutussuunnitelman päivitykseen. Kuvassa oleva 2 viikon päivitysaika on ohjeellinen ja sitä on muuutettava tarpeen mukaan. 
 
 ## 1. Ideoiden kerääminen
 
