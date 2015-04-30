@@ -1,4 +1,4 @@
-![alt](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/factory.png)
+![alt](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/factory2.png)
 
 ## Palvelukehitystehdas - 6/30 malli
 OKM vetoiset kehitysprojektit vakioidaan mahdollisimman pitkälle. Näin saamme aikaiseksi merkittäviä säästöjä, koska prosessi on selkeä ja tehokas. Kehityksessä sovelletaan "6/30 -sääntöä". Tarkoitus on saada nopealla syklillä tieto, onko ideasta tai palvelusta hyötyä, ratkooko se asiakaskunnan ongelman. Toisin sanoen nopeasti saada tieto mitä ideoita jatketaan ja mitä ei. 
