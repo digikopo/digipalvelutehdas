@@ -12,9 +12,11 @@ Jokainen projekti lähtee ideasta, joita kerätään tilannehuoneen seinälle. I
 * ketkä ovat asiakasedustajina mukana
 * kehitysyhteisön jäsenet (ml yritykset, mielellään nälkäisiä ja ketteriä)
 
+Kun projekti on hyväksytty tulee tehdä heti oma repository Github -palveluun DigiOKM alle ja siirtää toteutussuunnitelman githubiin esim markdown merkkausta hyväksikäyttäen. Markdown pohjainen dokumentti voi pidemmän päälle on fiksumpi lähestymistapa, koska jatkovaiheiden (voi olla useita) kohdalla suunnitelmaa täydennetään. Suunnitelman ylläpidosta vastaa yksi henkilö, joten ei ole tarvetta yhtäaikaiselle editoinnille ja siksi Github sopii tähän. Muussa tapauksessa tulisi käyttää muuta kuten esim Hackpad alustaa. 
+
 ![alt](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/projekti-tehdas-kaavio.png)
 
-**Jatkoprojektin budjetti voi olla suurempi kuin 30 000€**. Mikäli määrä ylittää 500 000€, viedään projekti hankesalkkuun. Kun projekti tulee toisen kierroksen päähän, tehdään jälleen evaluointi. Tällä kertaa päätetään että 
+**Jatkoprojekti budjetti voi olla suurempi kuin 30 000€**. Mikäli määrä ylittää 500 000€, viedään projekti hankesalkkuun. Kun projekti tulee toisen kierroksen päähän, tehdään jälleen evaluointi. Tällä kertaa päätetään että 
 * onko vielä kehitettävää tai 
 * riittääkö resurssit jatkaa nyt. 
 
