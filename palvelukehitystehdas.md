@@ -16,7 +16,7 @@ Kun projekti on hyväksytty tulee tehdä heti oma repository Github -palveluun D
 
 ![alt](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/projekti-tehdas-kaavio.png)
 
-**Jatkoprojekti budjetti voi olla suurempi kuin 30 000€**. Mikäli määrä ylittää 500 000€, viedään projekti hankesalkkuun. Kun projekti tulee toisen kierroksen päähän, tehdään jälleen evaluointi. Tällä kertaa päätetään että 
+**Jatkoprojekti budjetti voi olla suurempi kuin 30 000€**. Mikäli määrä ylittää 100 000€, viedään projekti hankesalkkuun. Kun projekti tulee toisen kierroksen päähän, tehdään jälleen evaluointi. Tällä kertaa päätetään että 
 * onko vielä kehitettävää tai 
 * riittääkö resurssit jatkaa nyt. 
 
