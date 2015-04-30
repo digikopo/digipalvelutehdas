@@ -53,7 +53,7 @@ Tarkempi kuvaus tilannehuoneen järjestelyistä ja käytännöistä on [kuvattu 
 * Ministeriössä jatketaan ja laajennetaan tilannehuoneen käyttöä osana tilannekuvan muodostamista ja ylläpitoa. 
 * Kutsutaan mukaan OPH ja YTL 
 * Kehitetään [projektien canvas-mallia](https://github.com/digiokm/palvelukehitys/blob/master/tilannekuvahuone.md#2-suunnittelu) ja prosessia osana muuta kehitystä == käytetään mallia osana toimintaa.
-* Otetaan käyttöön [6/30 -malli ja palvelukehitystehdas](https://github.com/digiokm/palvelukehitys/blob/master/palvelukehitystehdas.md) 
+* Otetaan käyttöön [3/30 -malli ja palvelukehitystehdas](https://github.com/digiokm/palvelukehitys/blob/master/palvelukehitystehdas.md) 
 
 
 ## 2. Keskitetty kehitysympäristö ja versionhallinta
