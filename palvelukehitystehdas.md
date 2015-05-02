@@ -29,3 +29,6 @@ Kun projekti on hyväksytty tulee tehdä heti oma repository Github -palveluun D
 * riittääkö resurssit jatkaa nyt. 
 
 Jos ei, siirtyy palvelu ylläpitoon. Muussa tapauksessa palataan canvaksen päivitykseen ja toteutussuunnitelman päivitykseen. Kuvassa oleva 2 viikon päivitysaika on ohjeellinen ja sitä on muuutettava tarpeen mukaan. 
+
+### Ylläpito
+Palveluiden ylläpidon suhteen ei paljon ole vaihtoehtoja. Jos jää itselle ylläpitoon niin joko OPH:n palvelimet tai sitten CSC:lle. Kummatkaan eivät ole ilmaisia. Jos taas ulkoistetaan tai ostetaan palveluna, niin sitten ylläpito tulee palveluntarjoajalta. Projektipäällikön tehtävä on varmistaa, että ylläpito on ratkaistu. Tulisi harkita vakavasti toimialan yhteistä open stack tyyppistä alustaa, jonne palvelut voisi siirtää ylläpitoon. 
