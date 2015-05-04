@@ -1,4 +1,4 @@
-# OKM toimialan API- ja palvelukehitysmalli
+# OKM KOPO toimialan API- ja palvelukehitysmalli
 
 | Otsikko |               |
 | ------------- |:-------------:| 
@@ -8,7 +8,7 @@
 ---
 
 
-OKM toimialana tarvitsee jalkautuksen sisältävän API strategian osana arkkitehtuurisuunnittelua. Strategioita on jo monia kuten esimerkiksi älystrategia, mutta niiden vika on että ne jäävät paperitiikereiksi…tai oikeastaan bittitiikereiksi makaamaan palvelimien ja kovalevyjen nurkkiin. Lähtökohta tulee olla palvelujen rakentaminen osaksi kansallista palveluarkkitehtuuria. Kaikkien toimien tulee edistää tätä tavoitetta ja madaltaa kynnystä innovoida uusia tapoja käyttää digitalisoituvaa tietoa entistä tehokkaammin ja monipuolisemmin.
+OKM KOPO toimialana tarvitsee jalkautuksen sisältävän API strategian osana arkkitehtuurisuunnittelua. Strategioita on jo monia kuten esimerkiksi älystrategia, mutta niiden vika on että ne jäävät paperitiikereiksi…tai oikeastaan bittitiikereiksi makaamaan palvelimien ja kovalevyjen nurkkiin. Lähtökohta tulee olla palvelujen rakentaminen osaksi kansallista palveluarkkitehtuuria. Kaikkien toimien tulee edistää tätä tavoitetta ja madaltaa kynnystä innovoida uusia tapoja käyttää digitalisoituvaa tietoa entistä tehokkaammin ja monipuolisemmin.
 
 Tavoitteet ja linjaukset toiminnalle löytyy [Tim O’Reillyn digitaalisen hallinnon pääkohdista](http://chimera.labs.oreilly.com/books/1234000000774/ch02.html#lesson_1_open_standards_spark_innovation): 
 * Tue avoimia standardeja.
@@ -41,7 +41,7 @@ Malli sisältää 7 periaatetta ja toimintoa:
 ## 1. Tilannekuvahuone
 Tällä hetkellä tieto ja ymmärrys palvelukehityksen kokonaiskuvasta on heikko. Osastot ja virastot tekevät omia ratkaisujaan. Keskustelu osastojen välillä on lisääntynyt, mutta siltikään ei ole tapaa pitää yllä yhteistä tilannekuvaa. Näin ollen johdolla ei ole tietoa, jonka pohjalta tehdä päätöksiä kokonaistaloudellisesti järkevällä tavalla. 
 
-Ministeriössä tulee olla palvelukehityksen tilannekuvahuone, jossa toimialan (ml OPH, YTL) keskeiset projektipäälliköt ja hankepäälliköt sekä arkkitehdit tapaavat säännöllisesti jakaakseen tietoa ja koordinoidakseen kehitystä. Nykyinen tilannekuvahuone on muodostunut huoneeseen K237 Meritullinkatu 10. 
+Ministeriössä tulee olla palvelukehityksen tilannekuvahuone, jossa toimialan (ml Karvi, YTL) keskeiset projektipäälliköt ja hankepäälliköt sekä arkkitehdit tapaavat säännöllisesti jakaakseen tietoa ja koordinoidakseen kehitystä. Nykyinen tilannekuvahuone on muodostunut huoneeseen K237 Meritullinkatu 10. 
 
 Tilannekuvan luomiseen ja ylläpitämiseen saa osallistua jokaiselta osastolta yksi henkilö. Ryhmä tapaa joka toinen viikko. Palaveri on maksimissaan tunti. Tilannekuvahuoneen seinällä on kiinnitettynä 5 vaiheeseen projekteja ja niiden A4 kokoisia kuvauksia. Prosessina alla olevan kuvan tyyppinen
 
@@ -51,7 +51,7 @@ Tarkempi kuvaus tilannehuoneen järjestelyistä ja käytännöistä on [kuvattu 
 
 **Toimenpiteet**
 * Ministeriössä jatketaan ja laajennetaan tilannehuoneen käyttöä osana tilannekuvan muodostamista ja ylläpitoa. 
-* Kutsutaan mukaan OPH ja YTL 
+* Kutsutaan mukaan Karvi ja YTL 
 * Kehitetään [projektien canvas-mallia](https://github.com/digiokm/palvelukehitys/blob/master/tilannekuvahuone.md#2-suunnittelu) ja prosessia osana muuta kehitystä == käytetään mallia osana toimintaa.
 * Otetaan käyttöön [3/30 -malli ja palvelukehitystehdas](https://github.com/digiokm/palvelukehitys/blob/master/palvelukehitystehdas.md) 
 
@@ -63,10 +63,10 @@ Kehityksessä tulee käyttää aina kun mahdollista JulkICTLab ympäristöä tai
 Lisäksi OKM:n toimialana tulee keskittää lähdekoodinhallinta Github palveluun tai vaihtoehtoisesti käyttää palveluavastaavaa ratkaisua Gitlab, joka löytyy jo valmiiksi JulkICTLabista. Github palvelun käyttöä puoltaa se fakta, että kehittäjät ovat jo siellä. Github palveluna on avoimen lähdekoodin yhteisön de facto palvelu ja siten kehittäjäpohja laaja. Eriytymällä omaan Gitlab palveluun eristämme itsemme muusta kehittämisyhteisöstä. On kuitenkin tilanteita, jolloin Gitlab käyttö opn perusteltua. Oletusarvoisesti kuitenkin käytetään Github palvelua. 
 
 **Toimenpiteet**
-* Ministeriö ottaa Githubin käyttöön ja keskittää kehitysprojektiensa versionhallinnan Github palveluun oman organisaation alle. 
+* Ministeriössä KOPO ottaa Githubin käyttöön ja keskittää kehitysprojektiensa versionhallinnan Github palveluun oman organisaation alle. 
 * Github organisaatiolle nimetään vastaava henkilö
 * Kehitetään github ympäristöön yhtenäinen MVP projektimalli ([canvas](https://github.com/digiokm/palvelukehitys/blob/master/tilannekuvahuone.md#2-suunnittelu) + käytännöt). 
-* Github ympäristöä ja sen sisältämää tietoa hyödyntävän reaaliaikatilannekuvanäkymän luominen organisaatioittain (OKM, Opetushallitus, YTL). Mahdollistaa tiedon esittämisen kuvaajina ja toiminnan mittaamisen. 
+* Github ympäristöä ja sen sisältämää tietoa hyödyntävän reaaliaikatilannekuvanäkymän luominen organisaatioittain (OKM, Karvi, YTL). Mahdollistaa tiedon esittämisen kuvaajina ja toiminnan mittaamisen. 
 
 ## 3. Rajapinnat fokuksessa 
 
@@ -125,7 +125,7 @@ Rajapinnan asiakas on kehittäjä, se taho joka puolestaan rakentaa Matille ja M
 
 ## 5. Avoimen tuotteen hallintamalli
 
-VTT-Technical-Research-Centre-of-FinlandKehittämisen konseptina tulee hyödyntää Avoimen tuotteen hallintamallin mukaista tuotteenhallintasuunnitelmaa. Avoimen tuotteen hallintamalli määrittelee säännöt, joilla voidaan perustaa julkisen hallinnon organisaatioille käyttäjäyhteisö avoimen lähdekoodin ohjelmistotuotteen kehittämistä, ohjausta ja hallintaa varten. Malli selkeyttää mm. tuotteen omistajuutta, osapuolten vastuita sekä palvelun ylläpidon ja kehittämisen ohjausta. VTT:n luomaa mallia pyritään soveltamaan kaikissa JulkICT:n projekteissa, joissa tuotetaan palveluja avoimella lähdekoodilla. Kuten aiemmin on todettu asiakkuuksia on ainakin kahden tyyppisiä, joista rajapinnan asiakas on kehittäjä. Rajapinta tulee siis nähdä palveluna siinä missä Matti ja Maija Meikäläisen käyttämät palveluväylän näkymät. Rajapinta on tuote ja sen kehittämiseen tulee käyttää myös Avoimen tuotteen hallintamallin mukaista tuotteenhallintasuunnitelmaa.
+Kehittämisen konseptina tulee hyödyntää Avoimen tuotteen hallintamallin mukaista tuotteenhallintasuunnitelmaa. Avoimen tuotteen hallintamalli määrittelee säännöt, joilla voidaan perustaa julkisen hallinnon organisaatioille käyttäjäyhteisö avoimen lähdekoodin ohjelmistotuotteen kehittämistä, ohjausta ja hallintaa varten. Malli selkeyttää mm. tuotteen omistajuutta, osapuolten vastuita sekä palvelun ylläpidon ja kehittämisen ohjausta. VTT:n luomaa mallia pyritään soveltamaan kaikissa JulkICT:n projekteissa, joissa tuotetaan palveluja avoimella lähdekoodilla. Kuten aiemmin on todettu asiakkuuksia on ainakin kahden tyyppisiä, joista rajapinnan asiakas on kehittäjä. Rajapinta tulee siis nähdä palveluna siinä missä Matti ja Maija Meikäläisen käyttämät palveluväylän näkymät. Rajapinta on tuote ja sen kehittämiseen tulee käyttää myös Avoimen tuotteen hallintamallin mukaista tuotteenhallintasuunnitelmaa.
 
 Avoimen tuotteen hallintamallia tulee kehittää edelleen yhteistyössä VTT:n ja muiden tahojen kanssa. Mallia tulee kehittää siten, että se ottaa huomioon rajapintojen kehittämisen erityispiirteet. [Desing First -malli](https://github.com/digiokm/palvelukehitys/blob/master/api-design-first.md) on yksi tapa nähdä rajapintojen kehittämisen malli.
 
