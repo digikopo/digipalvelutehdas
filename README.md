@@ -165,3 +165,4 @@ Lue lisää [palveluportaalin määrittelystä](https://github.com/digiokm/palve
 **Toimenpiteet**
 * Perustetaan palvelukehityksen portaali PoC vuoden loppuun mennessä
 * määritellään PoC minimum viable tyyppisesti
+* Projekteissa tuotetut API:t ja niiden dokumentaatiot tulee lisätä portaaliin jo keskeneräisinä
