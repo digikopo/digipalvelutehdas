@@ -1,6 +1,6 @@
 # DigiKOPO
 
-DigiKOPO on opetus-ja kulttuuriministeriön koulutuspolitiikan osaston ICT kehitystä koordinoiva ja ohjaava toimintamalli
+DigiKOPO on opetus-ja kulttuuriministeriön koulutuspolitiikan osaston oman toimialan ICT kehitystä koordinoiva ja ohjaava toimintamalli
 
 * Digikopo -tiimi
 * OKM KOPO toimialan API- ja palvelukehitysmalli 
