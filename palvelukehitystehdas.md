@@ -1,5 +1,7 @@
 ![alt](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/digifactory3.png)
 
+Yhteisön digitila on olemassa - [https://digipalvelutehdas.slack.com](https://digipalvelutehdas.slack.com) 
+
 ## Palvelukehitystehdas - 3/30 malli
 OKM KOPO vetoiset kehitysprojektit vakioidaan mahdollisimman pitkälle. Näin saamme aikaiseksi merkittäviä säästöjä, koska prosessi on selkeä ja tehokas. Kehityksessä sovelletaan "3/30 -sääntöä". Kustannus pitää olla alle 30 000 € ja kesto alle 3 kuukautta. 
 
