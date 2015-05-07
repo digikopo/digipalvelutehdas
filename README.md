@@ -119,6 +119,7 @@ Rajapinnan asiakas on kehittäjä, se taho joka puolestaan rakentaa Matille ja M
 
 **Toimenpiteet**
 * Palvelujen loppukäyttäjä tulee ottaa mukaan kehitysprosessiin alusta asti
+* Perustetaan yhteinen digitaalinen tila: [https://digipalvelutehdas.slack.com](https://digipalvelutehdas.slack.com)
 * Rajapintojen suunnittelussa on API:n asiakkaat eli palvelukehittäjät ottaa mukaan alusta asti
 * Tuotokset mukaan lukien suunnitelmat tulevat avoimesti PDF muodossa Github palveluun
 * Tulee aktiivisesti kehittää ja ottaa käyttöön vuorovaikutustyökaluja ja menetelmiä kuten avoimet online palaverit 
