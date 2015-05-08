@@ -17,7 +17,7 @@ Vaiheen **kustannukset saa olla maksimissaan 30 000€**. Alle 30 000€ hankinn
 
 ### Riskienhallinta ja ohjaus
 
-Projektin ensimmäisessä vaiheessa (kulut alla 30 000 €) ei aseteta ohjausryhmää, koska kyse ei ole merkittävästä kustannuksesta tai muusta riskistä. Mikäli projekti jatkuu ja jatkokehityksen kulut ovat yli 100 000 € tulee harkita kevyen ohjausryhmän nimeämistä, mutta pakollinen ohry:n perustaminen ei ole. Pitää kuitenkin muistaa, että tarpeettomien byrokratiatasojen ja toimielinten luominen on omiaan viemään ketteryydestä terää. Lisäksi Digipalvelutehtaan konseptissa projektit arvioidaan 3 kk välein joka tapauksessa, joten seuranta ja riskienhallinta on jatkuvaa. 
+Projektin ensimmäisessä vaiheessa (kulut alle 30 000 €) ei aseteta ohjausryhmää, koska kyse ei ole merkittävästä kustannuksesta tai muusta riskistä. Mikäli projekti jatkuu ja jatkokehityksen kulut ovat yli 100 000 € tulee harkita kevyen ohjausryhmän nimeämistä, mutta pakollinen ohry:n perustaminen ei ole. Pitää kuitenkin muistaa, että tarpeettomien byrokratiatasojen ja toimielinten luominen on omiaan viemään ketteryydestä terää. Lisäksi Digipalvelutehtaan konseptissa projektit arvioidaan 3 kk välein joka tapauksessa, joten seuranta ja riskienhallinta on jatkuvaa. 
 
 ### Ideasta toteutukseen - ensimmäinen kierros
 
