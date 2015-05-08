@@ -15,6 +15,10 @@ Säännön mukaan jokaisen uuden projektin **toteutusvaihe saa kestää enintä�
 
 Vaiheen **kustannukset saa olla maksimissaan 30 000€**. Alle 30 000€ hankinnat voidaan tehdä huomattavasti kevyemmällä prosessilla ja nopeammin. Lopuksi projektin tuotokset arvioidaan ja päätetään jatkosta: ei jatku tai jatkuu uudella sunnitelmalla eli uusi kierros (alla olevassa kuvassa alempi osa "Jatkoprojekti"). 
 
+## Riskienhallinta ja ohjaus
+
+Projektin ensimmäisessä vaiheessa (kulut alla 30 000 €) ei aseteta ohjausryhmää, koska kyse ei ole merkittävästä kustannuksesta tai muusta riskistä. Mikäli projekti jatkuu ja jatkokehityksen kulut ovat yli 100 000 € tulee harkita kevyen ohjausryhmän nimeämistä, mutta pakollinen ohry:n perustaminen ei ole. Pitää kuitenkin muistaa, että tarpeettomien byrokratiatasojen ja toimielinten luominen on omiaan viemään ketteryydestä terää. Lisäksi Digipalvelutehtaan konseptissa projektit arvioidaan 3 kk välein joka tapauksessa, joten seuranta ja riskienhallinta on jatkuvaa. 
+
 Jokainen projekti lähtee ideasta, joita kerätään tilannehuoneen seinälle. Idean saa koska tahansa muuttaa [canvas pohjalle](https://github.com/digiokm/palvelukehitys/blob/master/tilannekuvahuone.md#2-suunnittelu) tehdyksi "businessplaniksi", jossa on olennaiset asiat tiiviisti. Canvaksen idea on otettu lean startup toimintatavoista, jossa jäte eli turhat kehityskulut pyritään minimoimaan ja oppimistulokset maksimoimaan. Tilannekuvan tarkastelupalaverissa käydään uudet canvas tasolle kehittyneet ideat läpi ja mietitään niiden tarpeellisuutta. Kun idea saa kannatusta ja se sopii muuhun kehitystoimintaan, löytyy resursseja ja aikaa, täydennetään canvas toteutussuunnitelmaksi, jonka kuvassa annettu maksimi laatimisaika on ohjeellinen. Toteutussuunnitelman hyväksytään tai hylätään tilannekuvan tarkastelupalaverissa (luettu etukäteen). Toteutussuunnitelman laatii yleensä idean esittäjä. Osana toteutussuunitelmaa tulee selvittää: 
 * onko idealla myös ylemmän johdon hyväksyntä
 * onko resursseja ja paljonko
