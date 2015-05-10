@@ -130,9 +130,16 @@ Kehittämisen konseptina tulee hyödyntää Avoimen tuotteen hallintamallin muka
 
 Avoimen tuotteen hallintamallia tulee kehittää edelleen yhteistyössä VTT:n ja muiden tahojen kanssa. Mallia tulee kehittää siten, että se ottaa huomioon rajapintojen kehittämisen erityispiirteet. [Desing First -malli](https://github.com/digiokm/palvelukehitys/blob/master/api-design-first.md) on yksi tapa nähdä rajapintojen kehittämisen malli.
 
+Tulee lisäksi ottaa käyttöön kontribuutiosopimukset (Contributor license agreements). Tyypillisesti niitä on ainakin kahta tyyppiä: yksi yksittäisille henkilöille ja toinen yhteisöille/yrityksille. Ideaalitilanteessa julkisella sektorilla olisi yhteiset kontribuutiosopimukset, mutta tässä vaiheessa OKM KOPO ottaa käyttöön omat sopimukset (JURISTIEN TARKASTETTAVA NÄMÄ)
+
+* yksityishenkilöille [CLA](https://github.com/digiokm/contributor-license-agreement/blob/master/PDF/ha-cla-e-v1.pdf)
+* yrityksille [CAA](https://github.com/digiokm/contributor-license-agreement/blob/master/PDF/ha-caa-e-v1.pdf)
+
 
 **Toimenpiteet**
-* ....
+* Hyväksytään CLA:t käyttöön juristien tekemän tarkastuksen jälkeen. 
+* Otetaan Design First prosessi käyttöön ja sovitetaan avoien tuotteen hallintamalliin
+* Avataan yhteistyö VTT ja VM kanssa avoimen tuotteen hallintamallin sovittamisesta Palvelukehitystehdas konseptiin
 
 ## 6. Iteratiivista ketterää kehitystä
 
