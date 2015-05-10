@@ -41,7 +41,7 @@ Malli sisältää 7 periaatetta ja toimintoa:
 ## 1. Tilannekuvahuone
 Tällä hetkellä tieto ja ymmärrys palvelukehityksen kokonaiskuvasta on heikko. Osastot ja virastot tekevät omia ratkaisujaan. Keskustelu osastojen välillä on lisääntynyt, mutta siltikään ei ole tapaa pitää yllä yhteistä tilannekuvaa. Näin ollen johdolla ei ole tietoa, jonka pohjalta tehdä päätöksiä kokonaistaloudellisesti järkevällä tavalla. 
 
-Ministeriössä tulee olla palvelukehityksen tilannekuvahuone, jossa toimialan (ml Karvi, YTL) keskeiset projektipäälliköt ja hankepäälliköt sekä arkkitehdit tapaavat säännöllisesti jakaakseen tietoa ja koordinoidakseen kehitystä. Nykyinen tilannekuvahuone on muodostunut huoneeseen K237 Meritullinkatu 10. 
+Ministeriössä tulee olla palvelukehityksen tilannekuvahuone, jossa toimialan (ml Karvi, YTL) keskeiset projektipäälliköt ja hankepäälliköt sekä arkkitehdit tapaavat säännöllisesti jakaakseen tietoa ja koordinoidakseen kehitystä. Nykyinen tilannekuvahuone on muodostunut huoneeseen K237 Meritullinkatu 10. Kasvokkaisia kohtaamisia ei voi korvata millään tekniikalla. Fyysinen tapaamispaikka on sosiaalisuuden ja sosiaalisten suhteiden rakentamisen ja ylläpidon kannalta välttämätön. Maslow sen aikanaan jo totes. 
 
 Tilannekuvan luomiseen ja ylläpitämiseen saa osallistua jokaiselta osastolta yksi henkilö. Ryhmä tapaa joka toinen viikko. Palaveri on maksimissaan tunti. Tilannekuvahuoneen seinällä on kiinnitettynä 5 vaiheeseen projekteja ja niiden A4 kokoisia kuvauksia. Prosessina alla olevan kuvan tyyppinen
 
