@@ -132,8 +132,8 @@ Avoimen tuotteen hallintamallia tulee kehittää edelleen yhteistyössä VTT:n j
 
 Tulee lisäksi ottaa käyttöön kontribuutiosopimukset (Contributor license agreements). Tyypillisesti niitä on ainakin kahta tyyppiä: yksi yksittäisille henkilöille ja toinen yhteisöille/yrityksille. Ideaalitilanteessa julkisella sektorilla olisi yhteiset kontribuutiosopimukset, mutta tässä vaiheessa OKM KOPO ottaa käyttöön omat sopimukset (JURISTIEN TARKASTETTAVA NÄMÄ)
 
-* yksityishenkilöille [CLA](https://github.com/digiokm/contributor-license-agreement/blob/master/PDF/ha-cla-e-v1.pdf)
-* yrityksille [CAA](https://github.com/digiokm/contributor-license-agreement/blob/master/PDF/ha-caa-e-v1.pdf)
+* yksityishenkilöille [CLA](https://github.com/diGIKOPO/digipalvelutehdas-konsepti/blob/master/PDF/ha-cla-e-v1.pdf)
+* yrityksille [CAA](https://github.com/digiKOPO/digipalvelutehdas-konsepti/blob/master/PDF/ha-caa-e-v1.pdf)
 
 
 **Toimenpiteet**
