@@ -144,7 +144,7 @@ Minimum Viable Product (MVP) – Pienin Mahdollinen Tuote, jota edustaa mikä ta
 * ....
 
 
-## 7. Palvelukehityksen portaali
+## 7. Palvelukehitystehdas -portaali
 
 Keskitetty rajapintojen hallintapalvelusta on osa laajempaa kokonaisuutta, josta löytyy myös ajantasaiset rajapintojen dokumentaatiot, valmiit koodiesimerkit rajapintojen hyödyntämiseen, valmiit ohjelmistokomponenttikirjastot eri käyttöjärjestelmille (SDK), hiekkalaatikko API:en kokeilemiseen ja mahdollisuus vuorovaikutukseen kehittäjäyhteisön kanssa. Tässä kohdin tulee hyödyntää FORGE alustaa ja yhteisöä.
 
