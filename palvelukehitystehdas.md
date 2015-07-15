@@ -13,7 +13,7 @@ Säännön mukaan jokaisen uuden projektin **toteutusvaihe saa kestää enintä�
 
 ### Alle 30 000€
 
-Vaiheen **kustannukset saa olla maksimissaan 30 000€**. Alle 30 000€ hankinnat voidaan tehdä huomattavasti kevyemmällä prosessilla ja nopeammin. Lopuksi projektin tuotokset arvioidaan ja päätetään jatkosta: ei jatku tai jatkuu uudella sunnitelmalla eli uusi kierros (alla olevassa kuvassa alempi osa "Jatkoprojekti"). 
+Vaiheen **kustannukset saa olla maksimissaan 30 000€**. Alle 30 000€ hankinnat voidaan tehdä huomattavasti kevyemmällä prosessilla ja nopeammin. Lopuksi projektin tuotokset arvioidaan ja päätetään jatkosta: ei jatku tai jatkuu uudella sunnitelmalla eli uusi kierros (alla olevassa kuvassa alempi osa "Jatkokehitys"). 
 
 ### Riskienhallinta ja ohjaus
 
