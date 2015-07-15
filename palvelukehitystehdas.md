@@ -39,4 +39,11 @@ Kun projekti on hyväksytty tulee tehdä heti oma repository Github -palveluun D
 Jos ei, siirtyy palvelu ylläpitoon. Muussa tapauksessa palataan canvaksen päivitykseen ja toteutussuunnitelman päivitykseen. Kuvassa oleva 2 viikon päivitysaika on ohjeellinen ja sitä on muuutettava tarpeen mukaan. 
 
 ### Ylläpito
-Palveluiden ylläpidon suhteen ei paljon ole vaihtoehtoja. Jos jää itselle ylläpitoon niin joko OPH:n palvelimet tai sitten CSC:lle. Kummatkaan eivät ole ilmaisia. Jos taas ulkoistetaan tai ostetaan palveluna, niin sitten ylläpito tulee palveluntarjoajalta. Projektipäällikön tehtävä on varmistaa, että ylläpito on ratkaistu. Tulisi harkita vakavasti toimialan yhteistä open stack tyyppistä alustaa, jonne palvelut voisi siirtää ylläpitoon. Tällöin tulee huomioida että pelkkä palvelinympäristö ei riitä. Tarvitaan henkilöstöä joka pitää palvelusta huolta ja korjaa kiireisimmät bugit ja tietoturvaongelmat.  
+Palveluiden ylläpidon suhteen ei tällä hetkellä paljon ole vaihtoehtoja. Jos jää itselle ylläpitoon niin joko OPH:n palvelimet tai sitten CSC:lle. 
+Kummatkaan eivät ole ilmaisia. Jos taas ulkoistetaan tai ostetaan palveluna, niin sitten ylläpito tulee palveluntarjoajalta. 
+
+Projektipäällikön tehtävä on varmistaa, että ylläpito on ratkaistu. Tulisi harkita vakavasti toimialan yhteistä open stack tyyppistä alustaa, jonne palvelut voisi siirtää ylläpitoon. 
+Tällöin tulee huomioida että pelkkä palvelinympäristö ei riitä. Tarvitaan henkilöstöä, joka pitää palvelusta huolta ja korjaa kiireisimmät bugit ja tietoturvaongelmat.  
+
+VM:n kanssa käytyjen keskustelujen perusteella (Kopponen, 14.7.2015) Valtorin tulisi tarjota paikka minne tuotantotasoiset palvelut siirretään ylläpitoon. 
+Lisäksi siirron tulisi olla mahdollisimman suoraviivainen JulkICT Labista (OpenStack-pohjainen) Valtoriin. 
