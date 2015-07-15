@@ -28,7 +28,7 @@ Jokainen projekti lähtee ideasta, joita kerätään tilannehuoneen seinälle. I
 * ketkä ovat asiakasedustajina mukana
 * kehitysyhteisön jäsenet (ml yritykset, mielellään nälkäisiä ja ketteriä)
 
-Kun projekti on hyväksytty tulee tehdä heti oma repository Github -palveluun DigiOKM alle ja siirtää toteutussuunnitelman githubiin esim markdown merkkausta hyväksikäyttäen. Markdown pohjainen dokumentti voi pidemmän päälle on fiksumpi lähestymistapa, koska jatkovaiheiden (voi olla useita) kohdalla suunnitelmaa täydennetään. Suunnitelman ylläpidosta vastaa yksi henkilö, joten ei ole tarvetta yhtäaikaiselle editoinnille ja siksi Github sopii tähän. Muussa tapauksessa tulisi käyttää muuta kuten esim Hackpad alustaa. 
+Kun projekti on hyväksytty tulee tehdä heti oma repository Github -palveluun Digipalvelutehdas-organisaation alle ja siirtää toteutussuunnitelman githubiin esim markdown merkkausta hyväksikäyttäen. Markdown pohjainen dokumentti voi pidemmän päälle on fiksumpi lähestymistapa, koska jatkovaiheiden (voi olla useita) kohdalla suunnitelmaa täydennetään. Suunnitelman ylläpidosta vastaa yksi henkilö, joten ei ole tarvetta yhtäaikaiselle editoinnille ja siksi Github sopii tähän. Muussa tapauksessa tulisi käyttää muuta kuten esim Hackpad alustaa. 
 
 ![alt](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/digipalvelutehdas-kaavio.png)
 
