@@ -1,4 +1,4 @@
-![alt](https://raw.githubusercontent.com/digiokm/palvelukehitys/master/images/digifactory3.png)
+![alt](https://raw.githubusercontent.com/Digipalvelutehdas/jaetut-kaytannot/master/images/logo-929x173.png)
 
 Yhteisön digitila on olemassa - [https://digipalvelutehdas.slack.com](https://digipalvelutehdas.slack.com) 
 
