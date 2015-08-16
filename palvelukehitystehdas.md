@@ -2,22 +2,20 @@
 
 Yhteisön digitila on olemassa - [https://digipalvelutehdas.slack.com](https://digipalvelutehdas.slack.com) 
 
-## Palvelukehitystehdas - 3/30 malli
-OKM KOPO vetoiset kehitysprojektit vakioidaan mahdollisimman pitkälle. Näin saamme aikaiseksi merkittäviä säästöjä, koska prosessi on selkeä ja tehokas. Kehityksessä sovelletaan "3/30 -sääntöä". Kustannus pitää olla alle 30 000 € ja kesto alle 3 kuukautta. 
+## Palvelukehitystehdas - 90 päivää tulos tai ulos
+OKM KOPO vetoiset kehitysprojektit vakioidaan mahdollisimman pitkälle. Näin saamme aikaiseksi merkittäviä säästöjä, koska prosessi on selkeä ja tehokas.  Toteutuksen ensimmäisen vaiheen kesto pitää olla alle 3 kuukautta. 
 
-Tarkoitus on saada nopealla syklillä tieto, onko ideasta tai palvelusta hyötyä, ratkooko se asiakaskunnan ongelman. Toisin sanoen nopeasti saada tieto mitä ideoita jatketaan ja mitä ei. Malli toimii myös riskienhallintana, koska näin estetään monumentaalisten projektin syntyminen, joissa yleensä kehityskaari aloituksen jälkeen on vuosia ja budjetit miljoonia. Toki varmaankin on tilanteita ja tarpeita, jolloin 3/30 mallia ei voi käyttää, mutta ne ovat harvasssa. 
+Tarkoitus on saada nopealla syklillä tieto, onko ideasta tai palvelusta hyötyä, ratkooko se asiakaskunnan ongelman. Toisin sanoen nopeasti saada tieto mitä ideoita jatketaan ja mitä ei. Malli toimii myös riskienhallintana, koska näin estetään monumentaalisten projektin syntyminen, joissa yleensä kehityskaari aloituksen jälkeen on vuosia ja budjetit miljoonia. Toki varmaankin on tilanteita ja tarpeita, jolloin mallia ei voi käyttää, mutta ne ovat harvasssa. 
 
 ### Toteutus 3 kuukauden versiosprinteissä
 
 Säännön mukaan jokaisen uuden projektin **toteutusvaihe saa kestää enintään 3 kuukautta**, jonka jälkeen pitää olla esittää konkreettisia tuloksia. Tuloksen ei odoteta olevan valmis palvelu tai ratkaisu vaan enemmänkin proof of concept tyyppinen toteutus. Selkeyden vuoksi mainittakoon että määrittelyn kirjoittaminen projektina ei kelpaa. Tuloksien tulee olla käytännöllisiä ja lopputuoteen tai palvelun saavuttamista edistävä konkreettinen totetus. 
 
-### Alle 30 000€
-
-Vaiheen **kustannukset saa olla maksimissaan 30 000€**. Alle 30 000€ hankinnat voidaan tehdä huomattavasti kevyemmällä prosessilla ja nopeammin. Lopuksi projektin tuotokset arvioidaan ja päätetään jatkosta: ei jatku tai jatkuu uudella sunnitelmalla eli uusi kierros (alla olevassa kuvassa alempi osa "Jatkokehitys"). 
+Joissain tapauksissa vaiheen **kustannukset on alle 30 000€**. Alle 30 000€ hankinnat voidaan tehdä huomattavasti kevyemmällä prosessilla ja nopeammin. Lopuksi projektin tuotokset arvioidaan ja päätetään jatkosta: ei jatku tai jatkuu uudella sunnitelmalla eli uusi kierros (alla olevassa kuvassa alempi osa "Jatkokehitys"). 
 
 ### Riskienhallinta ja ohjaus
 
-Projektin ensimmäisessä vaiheessa (kulut alle 30 000 €) ei aseteta ohjausryhmää, koska kyse ei ole merkittävästä kustannuksesta tai muusta riskistä. Mikäli projekti jatkuu ja jatkokehityksen kulut ovat yli 100 000 € tulee harkita kevyen ohjausryhmän nimeämistä, mutta pakollinen ohry:n perustaminen ei ole. Pitää kuitenkin muistaa, että tarpeettomien byrokratiatasojen ja toimielinten luominen on omiaan viemään ketteryydestä terää. Lisäksi Digipalvelutehtaan konseptissa projektit arvioidaan 3 kk välein joka tapauksessa, joten seuranta ja riskienhallinta on jatkuvaa. Digipalvelutehtaalla on pysyvä ohjausryhmä, johon kuuluu OKM:ssä digikopo -tiimi ja KOPO:n johtajat. 
+Projektin ensimmäisessä vaiheessa ei aseteta ohjausryhmää, koska kyse ei ole merkittävästä kustannuksesta tai muusta riskistä. Mikäli projekti jatkuu ja jatkokehityksen kulut ovat yli 100 000 € tulee harkita kevyen ohjausryhmän nimeämistä, mutta pakollinen ohry:n perustaminen ei ole. Pitää kuitenkin muistaa, että tarpeettomien byrokratiatasojen ja toimielinten luominen on omiaan viemään ketteryydestä terää. Lisäksi Digipalvelutehtaan konseptissa projektit arvioidaan 3 kk välein joka tapauksessa, joten seuranta ja riskienhallinta on jatkuvaa. Digipalvelutehtaalla on pysyvä ohjausryhmä, johon kuuluu OKM:ssä digitiimi ja YVA:n johtajat. 
 
 ### Ideasta toteutukseen - ensimmäinen kierros
 
