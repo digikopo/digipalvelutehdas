@@ -13,6 +13,9 @@ Säännön mukaan jokaisen uuden projektin **toteutusvaihe saa kestää enintä�
 
 Joissain tapauksissa vaiheen **kustannukset on alle 30 000€**. Alle 30 000€ hankinnat voidaan tehdä huomattavasti kevyemmällä prosessilla ja nopeammin. Lopuksi projektin tuotokset arvioidaan ja päätetään jatkosta: ei jatku tai jatkuu uudella sunnitelmalla eli uusi kierros (alla olevassa kuvassa alempi osa "Jatkokehitys"). 
 
+### Kehitysympäristö ja varmuuskopiot
+Digipalvelutehtaan kehitysympäristö on JulkICT Labin (CSC:n cPouta) OpenStack ympäristö, johon ei kuulu backup toimintoja. Jokainen organisaatio ja projekti vastaa omien varmuuskopioiden tekemisestä!
+
 ### Riskienhallinta ja ohjaus
 
 Projektin ensimmäisessä vaiheessa ei aseteta ohjausryhmää, koska kyse ei ole merkittävästä kustannuksesta tai muusta riskistä. Mikäli projekti jatkuu ja jatkokehityksen kulut ovat yli 100 000 € tulee harkita kevyen ohjausryhmän nimeämistä, mutta pakollinen ohry:n perustaminen ei ole. Pitää kuitenkin muistaa, että tarpeettomien byrokratiatasojen ja toimielinten luominen on omiaan viemään ketteryydestä terää. Lisäksi Digipalvelutehtaan konseptissa projektit arvioidaan 3 kk välein joka tapauksessa, joten seuranta ja riskienhallinta on jatkuvaa. Digipalvelutehtaalla on pysyvä ohjausryhmä, johon kuuluu OKM:ssä digitiimi ja YVA:n johtajat. 
